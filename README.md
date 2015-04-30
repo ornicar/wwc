@@ -1,0 +1,2 @@
+# wwc
+World War Chess
