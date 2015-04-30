@@ -417,6 +417,7 @@ DAT.Globe = function(container, opts) {
     this._time = t;
   });
 
+  this.addPoint = addPoint;
   this.addData = addData;
   this.createPoints = createPoints;
   this.renderer = renderer;
