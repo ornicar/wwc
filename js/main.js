@@ -68,7 +68,6 @@ var exportColor = 0xdd380c;
 var importColor = 0x154492;
 
 //	the currently selected country
-var selectedCountry = null;
 var previouslySelectedCountry = null;
 
 //	contains info about what year, what countries, categories, etc that's being visualized
@@ -119,7 +118,6 @@ function start(e) {
 
 var Selection = function() {
   this.selectedYear = '2010';
-  this.selectedCountry = 'UNITED STATES';
   // this.showExports = true;
   // this.showImports = true;
   // this.importExportFilter = 'both';
@@ -260,7 +258,7 @@ function initScene() {
   console.timeEnd('loadGeoData');
 
   console.time('buildDataVizGeometries');
-  var vizilines = buildDataVizGeometries(moves);
+  buildDataVizGeometries(moves);
   console.timeEnd('buildDataVizGeometries');
 
   visualizationMesh = new THREE.Object3D();
@@ -672,8 +670,6 @@ function highlightCountry(countries) {
   // 	ctx.fillRect( i, 0, 1, 1 );
   // }
 
-  var selectedCountryCode = selectedCountry.countryCode;
-
   for (var i in countryCodes) {
     var countryCode = countryCodes[i];
     var colorIndex = countryColorMap[countryCode];
@@ -681,8 +677,6 @@ function highlightCountry(countries) {
     var mapColor = countryData[countries[i]].mapColor;
     // var fillCSS = '#ff0000';
     var fillCSS = '#333333';
-    if (countryCode === selectedCountryCode)
-      fillCSS = '#eeeeee'
       // if( mapColor !== undefined ){
       // 	var k = map( mapColor, 0, 200000000, 0, 255 );
       // 	k = Math.floor( constrain( k, 0, 255 ) );

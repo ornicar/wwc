@@ -69,8 +69,7 @@ function onClick( event ){
 				return;
 			// console.log(countryName);
 			var selection = selectionData;
-			selection.selectedCountry = countryName;
-			selectVisualization( moves, selection.selectedYear, [selection.selectedCountry], selection.getExportCategories(), selection.getImportCategories() );	
+			selectVisualization( moves, selection.selectedYear, [], selection.getExportCategories(), selection.getImportCategories() );	
 			// console.log('selecting ' + countryName + ' from click');
 			return;
 		}

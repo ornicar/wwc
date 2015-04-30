@@ -29,8 +29,6 @@ function attachMarkerToCountry( countryName, importance ){
 	marker.importance = importance;
 	marker.selected = false;
 	marker.hover = false;
-    if( countryName === selectedCountry.countryName.toUpperCase() )
-		marker.selected = true;
 
 	marker.setPosition = function(x,y,z){
 		this.style.left = x + 'px';
