@@ -41,38 +41,7 @@ var d3Graphs = {
 
 
     setCountry: function(country) {
-        $("#hudButtons .countryTextInput").val(country);
         d3Graphs.updateViz();
-    },
-    initGraphs: function() {
-        this.showHud();
-        this.drawBarGraph();
-        this.drawHistogram();
-    },
-    showHud: function() {
-        if(this.inited) return;
-        this.inited = true;
-        d3Graphs.windowResize();
-        $("#hudHeader, #hudButtons").show();
-        $("#history").show();
-        $("#graphIcon").show();
-        $("#importExportBtns").show();
-        $("#graphIcon").click(d3Graphs.graphIconClick);
-        $("#history .close").click(d3Graphs.closeHistogram);
-        $("#history ul li").click(d3Graphs.clickTimeline);
-        $("#handle").draggable({axis: 'x',containment: "parent",grid:[this.handleInterval, this.handleInterval],  stop: d3Graphs.dropHandle, drag: d3Graphs.dropHandle });
-        $("#hudButtons .searchBtn").click(d3Graphs.updateViz);
-        $("#importExportBtns .imex>div").not(".label").click(d3Graphs.importExportBtnClick);
-        $("#importExportBtns .imex .label").click(d3Graphs.importExportLabelClick);
-        $("#hudButtons .countryTextInput").autocomplete({ source:selectableCountries, autoFocus: true });
-        $("#hudButtons .countryTextInput").keyup(d3Graphs.countryKeyUp);
-        $("#hudButtons .countryTextInput").focus(d3Graphs.countryFocus);
-        $("#hudButtons .aboutBtn").click(d3Graphs.toggleAboutBox);
-        $(document).on("click",".ui-autocomplete li",d3Graphs.menuItemClick);
-        $(window).resize(d3Graphs.windowResizeCB);
-        $(".zoomBtn").mousedown(d3Graphs.zoomBtnClick);
-        $(".zoomBtn").mouseup(d3Graphs.zoomBtnMouseup);
-        
     },
     zoomBtnMouseup: function() {
         clearInterval(d3Graphs.zoomBtnInterval);
@@ -206,7 +175,7 @@ var d3Graphs = {
         }
         selectionData.selectedYear = year;
         selectionData.selectedCountry = country;
-        selectVisualization(timeBins, year,[country],exportArray, importArray);
+        selectVisualization(moves, year,[country],exportArray, importArray);
     },
     dropHandle:function() {
         d3Graphs.updateViz();
@@ -417,95 +386,6 @@ var d3Graphs = {
         }).attr('visibility', exportsVisible ? 'visible' : 'hidden');
         importLine.moveToFront();
         exportLine.moveToFront();
-        //active year labels
-        var yearOffset = $("#handle").css('left');
-        yearOffset = yearOffset.substr(0,yearOffset.length-2);
-        yearOffset -= d3Graphs.handleLeftOffset;
-        yearOffset /= d3Graphs.handleInterval;
-        var activeYearImports = null;
-        for(var i = 0; i < this.histogramImportArray.length; i++) {
-            var curYearData = this.histogramImportArray[i];
-            if(curYearData.x == yearOffset) {
-                activeYearImports = curYearData;
-                break;
-            }
-        }
-        var activeYearExports = null;
-        for(var i = 0; i < this.histogramExportArray.length; i++) {
-            var curYearData = this.histogramExportArray[i];
-            if(curYearData.x == yearOffset) {
-                activeYearExports = curYearData;
-                break;
-            }
-        }
-        var maxVal;
-        if(activeYearImports != null && activeYearExports!= null) {
-            maxVal = activeYearImports.y > activeYearExports.y ? activeYearImports.y : activeYearExports.y;
-        } else if(activeYearImports != null) {
-            maxVal = activeYearImports.y;
-        } else if(activeYearExports != null) {
-            maxVal = activeYearExports.y;
-        } else {
-            maxVal = -1;
-        }
-
-        var activeYearData = [{x:yearOffset, y: activeYearImports != null ? activeYearImports.y : -1, max: maxVal, show: activeYearImports!=null, type:"imports"},
-            {x: yearOffset, y: activeYearExports != null ? activeYearExports.y : -1, max: maxVal, show:activeYearExports!=null, type:'exports'}];
-        var yearDots = this.histogramSVG.selectAll("ellipse.year").data(activeYearData);
-        var yearDotLabels = this.histogramSVG.selectAll("text.yearLabel").data(activeYearData);
-        yearDots.enter().append('ellipse').attr('class','year').attr('rx',4).attr('ry',4)
-            .attr('cx',function(d) { return d3Graphs.histogramLeftPadding + d3Graphs.histogramXScale(d.x); })
-            .attr('cy',function(d) { return d3Graphs.histogramVertPadding + d3Graphs.histogramYScale(d.y); });
-        yearDotLabels.enter().append('text').attr('class','yearLabel').attr('text-anchor','middle');
-        var importsVisible = $("#importExportBtns .imports .check").not(".inactive").length != 0;
-        var exportsVisible = $("#importExportBtns .exports .check").not(".inactive").length != 0;
-        
-        yearDots.attr('cx', function(d) { return d3Graphs.histogramLeftPadding + d3Graphs.histogramXScale(d.x); })
-            .attr('cy',function(d) { return d3Graphs.histogramVertPadding + d3Graphs.histogramYScale(d.y); } )
-            .attr('visibility', function(d) {
-                if(d.show == false) {
-                    return 'hidden';
-                }
-                if(d.type == "imports") {
-                    return importsVisible ? 'visible' : 'hidden';
-                } else if(d.type == "exports") {
-                    return exportsVisible ? 'visible' : 'hidden';
-                }
-            });
-        yearDotLabels.attr('x',function(d) { return d3Graphs.histogramLeftPadding + d3Graphs.histogramXScale(d.x); })
-        .attr('y',function(d) {
-            var yVal = d3Graphs.histogramYScale(d.y) + d3Graphs.histogramVertPadding;
-            if(d.y == maxVal) {
-                yVal -= 7;  
-            } else {
-                yVal += 19;
-            }
-            if(yVal > d3Graphs.histogramHeight + d3Graphs.histogramVertPadding) {
-                yVal -= 26;
-            }
-            return yVal;
-            
-        }).text(function(d) {
-            var numlbl = Math.round(d.y*10)/10;
-            var lbl = "";
-            if(d.y > 0) {
-                lbl = "+";
-            }
-            lbl += ""+numlbl+"%";
-            return lbl;
-
-        }).attr('visibility', function(d) {
-            if(d.show == false) {
-                return 'hidden';
-            }
-            if(d.type == "imports") {
-                return importsVisible ? 'visible' : 'hidden';
-            } else if(d.type == "exports") {
-                return exportsVisible ? 'visible' : 'hidden';
-            }
-        });
-        yearDots.moveToFront();
-        yearDotLabels.moveToFront();
 
     },
     drawBarGraph: function() {

@@ -12,7 +12,7 @@ function buildGUI(){
 	selectionData = selection;
     /*
 	var updateVisualization = function(){
-		selectVisualization( timeBins, selection.selectedYear, [selection.selectedCountry], selection.getExportCategories(), selection.getImportCategories() );	
+		selectVisualization( moves, selection.selectedYear, [selection.selectedCountry], selection.getExportCategories(), selection.getImportCategories() );	
 	}		    	
 
 	var changeFunction = function(v){

@@ -1,0 +1,11438 @@
+{
+  "moves": [
+    {
+      "i": "Algeria",
+      "e": "Australia"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Australia"
+    },
+    {
+      "i": "Singapore",
+      "e": "Australia"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "Australia"
+    },
+    {
+      "i": "United States",
+      "e": "Australia"
+    },
+    {
+      "i": "Indonesia",
+      "e": "Austria"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Austria"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Austria"
+    },
+    {
+      "i": "Tunisia",
+      "e": "Austria"
+    },
+    {
+      "i": "United States",
+      "e": "Austria"
+    },
+    {
+      "i": "Australia",
+      "e": "Belgium"
+    },
+    {
+      "i": "Brazil",
+      "e": "Belgium"
+    },
+    {
+      "i": "Indonesia",
+      "e": "Belgium"
+    },
+    {
+      "i": "Saudi Arabia",
+      "e": "Belgium"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Belgium"
+    },
+    {
+      "i": "Tunisia",
+      "e": "Belgium"
+    },
+    {
+      "i": "United States",
+      "e": "Belgium"
+    },
+    {
+      "i": "Saudi Arabia",
+      "e": "Brazil"
+    },
+    {
+      "i": "United States",
+      "e": "Brazil"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Bulgaria"
+    },
+    {
+      "i": "Australia",
+      "e": "Canada"
+    },
+    {
+      "i": "Hong Kong",
+      "e": "Canada"
+    },
+    {
+      "i": "Italy",
+      "e": "Canada"
+    },
+    {
+      "i": "Malaysia",
+      "e": "Canada"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Canada"
+    },
+    {
+      "i": "Norway",
+      "e": "Canada"
+    },
+    {
+      "i": "Saudi Arabia",
+      "e": "Canada"
+    },
+    {
+      "i": "Tunisia",
+      "e": "Canada"
+    },
+    {
+      "i": "United States",
+      "e": "Canada"
+    },
+    {
+      "i": "Unspecified Country",
+      "e": "Chile"
+    },
+    {
+      "i": "Canada",
+      "e": "China"
+    },
+    {
+      "i": "Indonesia",
+      "e": "China"
+    },
+    {
+      "i": "Switzerland",
+      "e": "China"
+    },
+    {
+      "i": "United States",
+      "e": "China"
+    },
+    {
+      "i": "Venezuela, Bolivarian Republic of",
+      "e": "Colombia"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "United States",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Germany",
+      "e": "Denmark"
+    },
+    {
+      "i": "Sweden",
+      "e": "Denmark"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Denmark"
+    },
+    {
+      "i": "Saudi Arabia",
+      "e": "Egypt"
+    },
+    {
+      "i": "Switzerland",
+      "e": "El Salvador"
+    },
+    {
+      "i": "Greece",
+      "e": "Finland"
+    },
+    {
+      "i": "United States",
+      "e": "Finland"
+    },
+    {
+      "i": "Algeria",
+      "e": "France"
+    },
+    {
+      "i": "Croatia",
+      "e": "France"
+    },
+    {
+      "i": "Saudi Arabia",
+      "e": "France"
+    },
+    {
+      "i": "Switzerland",
+      "e": "France"
+    },
+    {
+      "i": "Tunisia",
+      "e": "France"
+    },
+    {
+      "i": "United States",
+      "e": "France"
+    },
+    {
+      "i": "Australia",
+      "e": "Germany"
+    },
+    {
+      "i": "Canada",
+      "e": "Germany"
+    },
+    {
+      "i": "Colombia",
+      "e": "Germany"
+    },
+    {
+      "i": "Denmark",
+      "e": "Germany"
+    },
+    {
+      "i": "Indonesia",
+      "e": "Germany"
+    },
+    {
+      "i": "Japan",
+      "e": "Germany"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Germany"
+    },
+    {
+      "i": "Portugal",
+      "e": "Germany"
+    },
+    {
+      "i": "Saudi Arabia",
+      "e": "Germany"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Germany"
+    },
+    {
+      "i": "Tunisia",
+      "e": "Germany"
+    },
+    {
+      "i": "United States",
+      "e": "Germany"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Hungary"
+    },
+    {
+      "i": "United States",
+      "e": "India"
+    },
+    {
+      "i": "Colombia",
+      "e": "Israel"
+    },
+    {
+      "i": "Mexico",
+      "e": "Israel"
+    },
+    {
+      "i": "Portugal",
+      "e": "Israel"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Israel"
+    },
+    {
+      "i": "United States",
+      "e": "Israel"
+    },
+    {
+      "i": "Australia",
+      "e": "Italy"
+    },
+    {
+      "i": "Brazil",
+      "e": "Italy"
+    },
+    {
+      "i": "Canada",
+      "e": "Italy"
+    },
+    {
+      "i": "Chile",
+      "e": "Italy"
+    },
+    {
+      "i": "Colombia",
+      "e": "Italy"
+    },
+    {
+      "i": "Denmark",
+      "e": "Italy"
+    },
+    {
+      "i": "Malaysia",
+      "e": "Italy"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Italy"
+    },
+    {
+      "i": "Saudi Arabia",
+      "e": "Italy"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Italy"
+    },
+    {
+      "i": "Tunisia",
+      "e": "Italy"
+    },
+    {
+      "i": "United States",
+      "e": "Italy"
+    },
+    {
+      "i": "Cambodia",
+      "e": "Japan"
+    },
+    {
+      "i": "Japan",
+      "e": "Korea, Republic of"
+    },
+    {
+      "i": "Croatia",
+      "e": "Lebanon"
+    },
+    {
+      "i": "Unspecified Country",
+      "e": "Macao"
+    },
+    {
+      "i": "Indonesia",
+      "e": "Malaysia"
+    },
+    {
+      "i": "Canada",
+      "e": "Mexico"
+    },
+    {
+      "i": "United States",
+      "e": "Mexico"
+    },
+    {
+      "i": "Indonesia",
+      "e": "Netherlands"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Netherlands"
+    },
+    {
+      "i": "United States",
+      "e": "Netherlands"
+    },
+    {
+      "i": "Germany",
+      "e": "New Zealand"
+    },
+    {
+      "i": "Israel",
+      "e": "New Zealand"
+    },
+    {
+      "i": "Sweden",
+      "e": "New Zealand"
+    },
+    {
+      "i": "United States",
+      "e": "New Zealand"
+    },
+    {
+      "i": "Saudi Arabia",
+      "e": "Pakistan"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Philippines"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Poland"
+    },
+    {
+      "i": "Bolivia, Plurinational State of",
+      "e": "Portugal"
+    },
+    {
+      "i": "Colombia",
+      "e": "Portugal"
+    },
+    {
+      "i": "Djibouti",
+      "e": "Portugal"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Portugal"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "Portugal"
+    },
+    {
+      "i": "United States",
+      "e": "Portugal"
+    },
+    {
+      "i": "Unspecified Country",
+      "e": "Portugal"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Romania"
+    },
+    {
+      "i": "United States",
+      "e": "Russian Federation"
+    },
+    {
+      "i": "Belgium",
+      "e": "Saudi Arabia"
+    },
+    {
+      "i": "United Arab Emirates",
+      "e": "Saudi Arabia"
+    },
+    {
+      "i": "United States",
+      "e": "Saudi Arabia"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Serbia"
+    },
+    {
+      "i": "Australia",
+      "e": "Singapore"
+    },
+    {
+      "i": "Indonesia",
+      "e": "Singapore"
+    },
+    {
+      "i": "Croatia",
+      "e": "Slovenia"
+    },
+    {
+      "i": "Colombia",
+      "e": "South Africa"
+    },
+    {
+      "i": "Switzerland",
+      "e": "South Africa"
+    },
+    {
+      "i": "Colombia",
+      "e": "Spain"
+    },
+    {
+      "i": "Saudi Arabia",
+      "e": "Spain"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Spain"
+    },
+    {
+      "i": "Tunisia",
+      "e": "Spain"
+    },
+    {
+      "i": "United States",
+      "e": "Spain"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Sri Lanka"
+    },
+    {
+      "i": "Canada",
+      "e": "Sweden"
+    },
+    {
+      "i": "Peru",
+      "e": "Sweden"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Sweden"
+    },
+    {
+      "i": "United States",
+      "e": "Sweden"
+    },
+    {
+      "i": "Algeria",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Argentina",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Austria",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Belgium",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Canada",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Colombia",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Czechoslovakia",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Denmark",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Finland",
+      "e": "Switzerland"
+    },
+    {
+      "i": "France",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Germany",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Greece",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Guatemala",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Guinea",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Indonesia",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Italy",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Netherlands",
+      "e": "Switzerland"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Norway",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Pakistan",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Portugal",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Qatar",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Saudi Arabia",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Singapore",
+      "e": "Switzerland"
+    },
+    {
+      "i": "South Africa",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Spain",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Sweden",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Tunisia",
+      "e": "Switzerland"
+    },
+    {
+      "i": "United Arab Emirates",
+      "e": "Switzerland"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "Switzerland"
+    },
+    {
+      "i": "United States",
+      "e": "Switzerland"
+    },
+    {
+      "i": "France",
+      "e": "Thailand"
+    },
+    {
+      "i": "United Arab Emirates",
+      "e": "Thailand"
+    },
+    {
+      "i": "Unspecified Country",
+      "e": "Thailand"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Turkey"
+    },
+    {
+      "i": "Oman",
+      "e": "United Arab Emirates"
+    },
+    {
+      "i": "Saudi Arabia",
+      "e": "United Arab Emirates"
+    },
+    {
+      "i": "Australia",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Canada",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Denmark",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Mexico",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "New Zealand",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Portugal",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Saudi Arabia",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Switzerland",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Tunisia",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "United States",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Algeria",
+      "e": "United States"
+    },
+    {
+      "i": "Argentina",
+      "e": "United States"
+    },
+    {
+      "i": "Australia",
+      "e": "United States"
+    },
+    {
+      "i": "Austria",
+      "e": "United States"
+    },
+    {
+      "i": "Bahrain",
+      "e": "United States"
+    },
+    {
+      "i": "Belgium",
+      "e": "United States"
+    },
+    {
+      "i": "Belize",
+      "e": "United States"
+    },
+    {
+      "i": "Bolivia, Plurinational State of",
+      "e": "United States"
+    },
+    {
+      "i": "Brazil",
+      "e": "United States"
+    },
+    {
+      "i": "Canada",
+      "e": "United States"
+    },
+    {
+      "i": "Chile",
+      "e": "United States"
+    },
+    {
+      "i": "Colombia",
+      "e": "United States"
+    },
+    {
+      "i": "Costa Rica",
+      "e": "United States"
+    },
+    {
+      "i": "Denmark",
+      "e": "United States"
+    },
+    {
+      "i": "Ecuador",
+      "e": "United States"
+    },
+    {
+      "i": "Egypt",
+      "e": "United States"
+    },
+    {
+      "i": "El Salvador",
+      "e": "United States"
+    },
+    {
+      "i": "Fiji",
+      "e": "United States"
+    },
+    {
+      "i": "Finland",
+      "e": "United States"
+    },
+    {
+      "i": "France",
+      "e": "United States"
+    },
+    {
+      "i": "Germany",
+      "e": "United States"
+    },
+    {
+      "i": "Greece",
+      "e": "United States"
+    },
+    {
+      "i": "Guatemala",
+      "e": "United States"
+    },
+    {
+      "i": "Guyana",
+      "e": "United States"
+    },
+    {
+      "i": "Honduras",
+      "e": "United States"
+    },
+    {
+      "i": "Hong Kong",
+      "e": "United States"
+    },
+    {
+      "i": "Indonesia",
+      "e": "United States"
+    },
+    {
+      "i": "Ireland",
+      "e": "United States"
+    },
+    {
+      "i": "Israel",
+      "e": "United States"
+    },
+    {
+      "i": "Italy",
+      "e": "United States"
+    },
+    {
+      "i": "Japan",
+      "e": "United States"
+    },
+    {
+      "i": "Jordan",
+      "e": "United States"
+    },
+    {
+      "i": "Kenya",
+      "e": "United States"
+    },
+    {
+      "i": "Korea, Republic of",
+      "e": "United States"
+    },
+    {
+      "i": "Kuwait",
+      "e": "United States"
+    },
+    {
+      "i": "Malaysia",
+      "e": "United States"
+    },
+    {
+      "i": "Mexico",
+      "e": "United States"
+    },
+    {
+      "i": "Morocco",
+      "e": "United States"
+    },
+    {
+      "i": "Nepal",
+      "e": "United States"
+    },
+    {
+      "i": "Netherlands",
+      "e": "United States"
+    },
+    {
+      "i": "New Zealand",
+      "e": "United States"
+    },
+    {
+      "i": "Nicaragua",
+      "e": "United States"
+    },
+    {
+      "i": "Norway",
+      "e": "United States"
+    },
+    {
+      "i": "Oman",
+      "e": "United States"
+    },
+    {
+      "i": "Pakistan",
+      "e": "United States"
+    },
+    {
+      "i": "Panama",
+      "e": "United States"
+    },
+    {
+      "i": "Paraguay",
+      "e": "United States"
+    },
+    {
+      "i": "Peru",
+      "e": "United States"
+    },
+    {
+      "i": "Philippines",
+      "e": "United States"
+    },
+    {
+      "i": "Portugal",
+      "e": "United States"
+    },
+    {
+      "i": "Qatar",
+      "e": "United States"
+    },
+    {
+      "i": "Saudi Arabia",
+      "e": "United States"
+    },
+    {
+      "i": "Senegal",
+      "e": "United States"
+    },
+    {
+      "i": "Singapore",
+      "e": "United States"
+    },
+    {
+      "i": "South Africa",
+      "e": "United States"
+    },
+    {
+      "i": "Spain",
+      "e": "United States"
+    },
+    {
+      "i": "Sweden",
+      "e": "United States"
+    },
+    {
+      "i": "Switzerland",
+      "e": "United States"
+    },
+    {
+      "i": "Taiwan",
+      "e": "United States"
+    },
+    {
+      "i": "Thailand",
+      "e": "United States"
+    },
+    {
+      "i": "Tunisia",
+      "e": "United States"
+    },
+    {
+      "i": "Turkey",
+      "e": "United States"
+    },
+    {
+      "i": "United Arab Emirates",
+      "e": "United States"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "United States"
+    },
+    {
+      "i": "Venezuela, Bolivarian Republic of",
+      "e": "United States"
+    },
+    {
+      "i": "Australia",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "Bolivia, Plurinational State of",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "Canada",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "Ecuador",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "Finland",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "Indonesia",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "Saint Lucia",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "Trinidad and Tobago",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "Australia",
+      "e": "Argentina"
+    },
+    {
+      "i": "Chile",
+      "e": "Argentina"
+    },
+    {
+      "i": "Germany",
+      "e": "Argentina"
+    },
+    {
+      "i": "Peru",
+      "e": "Argentina"
+    },
+    {
+      "i": "Sweden",
+      "e": "Argentina"
+    },
+    {
+      "i": "Thailand",
+      "e": "Argentina"
+    },
+    {
+      "i": "United States",
+      "e": "Argentina"
+    },
+    {
+      "i": "Belgium",
+      "e": "Australia"
+    },
+    {
+      "i": "Canada",
+      "e": "Australia"
+    },
+    {
+      "i": "Czechoslovakia",
+      "e": "Australia"
+    },
+    {
+      "i": "France",
+      "e": "Australia"
+    },
+    {
+      "i": "Germany",
+      "e": "Australia"
+    },
+    {
+      "i": "Hong Kong",
+      "e": "Australia"
+    },
+    {
+      "i": "New Caledonia",
+      "e": "Australia"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Australia"
+    },
+    {
+      "i": "Papua New Guinea",
+      "e": "Australia"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Australia"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "Australia"
+    },
+    {
+      "i": "United States",
+      "e": "Australia"
+    },
+    {
+      "i": "Vanuatu",
+      "e": "Australia"
+    },
+    {
+      "i": "Australia",
+      "e": "Austria"
+    },
+    {
+      "i": "Bolivia, Plurinational State of",
+      "e": "Austria"
+    },
+    {
+      "i": "Canada",
+      "e": "Austria"
+    },
+    {
+      "i": "Chile",
+      "e": "Austria"
+    },
+    {
+      "i": "Denmark",
+      "e": "Austria"
+    },
+    {
+      "i": "Finland",
+      "e": "Austria"
+    },
+    {
+      "i": "Germany",
+      "e": "Austria"
+    },
+    {
+      "i": "Iceland",
+      "e": "Austria"
+    },
+    {
+      "i": "Jamaica",
+      "e": "Austria"
+    },
+    {
+      "i": "Malaysia",
+      "e": "Austria"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Austria"
+    },
+    {
+      "i": "Spain",
+      "e": "Austria"
+    },
+    {
+      "i": "Sweden",
+      "e": "Austria"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Austria"
+    },
+    {
+      "i": "Thailand",
+      "e": "Austria"
+    },
+    {
+      "i": "Trinidad and Tobago",
+      "e": "Austria"
+    },
+    {
+      "i": "Turkey",
+      "e": "Austria"
+    },
+    {
+      "i": "United Arab Emirates",
+      "e": "Austria"
+    },
+    {
+      "i": "United States",
+      "e": "Austria"
+    },
+    {
+      "i": "Australia",
+      "e": "Belgium"
+    },
+    {
+      "i": "Canada",
+      "e": "Belgium"
+    },
+    {
+      "i": "Denmark",
+      "e": "Belgium"
+    },
+    {
+      "i": "Finland",
+      "e": "Belgium"
+    },
+    {
+      "i": "Germany",
+      "e": "Belgium"
+    },
+    {
+      "i": "Malaysia",
+      "e": "Belgium"
+    },
+    {
+      "i": "Portugal",
+      "e": "Belgium"
+    },
+    {
+      "i": "Spain",
+      "e": "Belgium"
+    },
+    {
+      "i": "Sweden",
+      "e": "Belgium"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Belgium"
+    },
+    {
+      "i": "Thailand",
+      "e": "Belgium"
+    },
+    {
+      "i": "Turkey",
+      "e": "Belgium"
+    },
+    {
+      "i": "United Arab Emirates",
+      "e": "Belgium"
+    },
+    {
+      "i": "United States",
+      "e": "Belgium"
+    },
+    {
+      "i": "Mexico",
+      "e": "Belize"
+    },
+    {
+      "i": "Unspecified Country",
+      "e": "Belize"
+    },
+    {
+      "i": "Argentina",
+      "e": "Bolivia, Plurinational State of"
+    },
+    {
+      "i": "Chile",
+      "e": "Bolivia, Plurinational State of"
+    },
+    {
+      "i": "Colombia",
+      "e": "Bolivia, Plurinational State of"
+    },
+    {
+      "i": "Australia",
+      "e": "Brazil"
+    },
+    {
+      "i": "Canada",
+      "e": "Brazil"
+    },
+    {
+      "i": "Chile",
+      "e": "Brazil"
+    },
+    {
+      "i": "Denmark",
+      "e": "Brazil"
+    },
+    {
+      "i": "Ecuador",
+      "e": "Brazil"
+    },
+    {
+      "i": "Finland",
+      "e": "Brazil"
+    },
+    {
+      "i": "Germany",
+      "e": "Brazil"
+    },
+    {
+      "i": "Iceland",
+      "e": "Brazil"
+    },
+    {
+      "i": "Jamaica",
+      "e": "Brazil"
+    },
+    {
+      "i": "Malaysia",
+      "e": "Brazil"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Brazil"
+    },
+    {
+      "i": "Paraguay",
+      "e": "Brazil"
+    },
+    {
+      "i": "Peru",
+      "e": "Brazil"
+    },
+    {
+      "i": "Portugal",
+      "e": "Brazil"
+    },
+    {
+      "i": "Spain",
+      "e": "Brazil"
+    },
+    {
+      "i": "Sweden",
+      "e": "Brazil"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Brazil"
+    },
+    {
+      "i": "Thailand",
+      "e": "Brazil"
+    },
+    {
+      "i": "Trinidad and Tobago",
+      "e": "Brazil"
+    },
+    {
+      "i": "United States",
+      "e": "Brazil"
+    },
+    {
+      "i": "Germany",
+      "e": "Bulgaria"
+    },
+    {
+      "i": "Spain",
+      "e": "Bulgaria"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Bulgaria"
+    },
+    {
+      "i": "Thailand",
+      "e": "Cameroon"
+    },
+    {
+      "i": "Argentina",
+      "e": "Canada"
+    },
+    {
+      "i": "Australia",
+      "e": "Canada"
+    },
+    {
+      "i": "Austria",
+      "e": "Canada"
+    },
+    {
+      "i": "Belgium",
+      "e": "Canada"
+    },
+    {
+      "i": "Bulgaria",
+      "e": "Canada"
+    },
+    {
+      "i": "Costa Rica",
+      "e": "Canada"
+    },
+    {
+      "i": "Finland",
+      "e": "Canada"
+    },
+    {
+      "i": "France",
+      "e": "Canada"
+    },
+    {
+      "i": "Germany",
+      "e": "Canada"
+    },
+    {
+      "i": "Italy",
+      "e": "Canada"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Canada"
+    },
+    {
+      "i": "Norway",
+      "e": "Canada"
+    },
+    {
+      "i": "South Africa",
+      "e": "Canada"
+    },
+    {
+      "i": "Spain",
+      "e": "Canada"
+    },
+    {
+      "i": "Sweden",
+      "e": "Canada"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Canada"
+    },
+    {
+      "i": "Trinidad and Tobago",
+      "e": "Canada"
+    },
+    {
+      "i": "Turkey",
+      "e": "Canada"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "Canada"
+    },
+    {
+      "i": "United States",
+      "e": "Canada"
+    },
+    {
+      "i": "Uruguay",
+      "e": "Canada"
+    },
+    {
+      "i": "Unspecified Country",
+      "e": "Chile"
+    },
+    {
+      "i": "Australia",
+      "e": "China"
+    },
+    {
+      "i": "Canada",
+      "e": "China"
+    },
+    {
+      "i": "Chile",
+      "e": "China"
+    },
+    {
+      "i": "Finland",
+      "e": "China"
+    },
+    {
+      "i": "Germany",
+      "e": "China"
+    },
+    {
+      "i": "Spain",
+      "e": "China"
+    },
+    {
+      "i": "Sweden",
+      "e": "China"
+    },
+    {
+      "i": "Thailand",
+      "e": "China"
+    },
+    {
+      "i": "United States",
+      "e": "China"
+    },
+    {
+      "i": "Venezuela, Bolivarian Republic of",
+      "e": "Colombia"
+    },
+    {
+      "i": "Bolivia, Plurinational State of",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Canada",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Chile",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Finland",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Germany",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Iceland",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Malaysia",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Peru",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Portugal",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Spain",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Sweden",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Thailand",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Turkey",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "United States",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "France",
+      "e": "Denmark"
+    },
+    {
+      "i": "Germany",
+      "e": "Denmark"
+    },
+    {
+      "i": "Norway",
+      "e": "Denmark"
+    },
+    {
+      "i": "Sweden",
+      "e": "Denmark"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Denmark"
+    },
+    {
+      "i": "Peru",
+      "e": "Dominica"
+    },
+    {
+      "i": "Germany",
+      "e": "Egypt"
+    },
+    {
+      "i": "Spain",
+      "e": "Egypt"
+    },
+    {
+      "i": "United States",
+      "e": "Egypt"
+    },
+    {
+      "i": "Sweden",
+      "e": "Estonia"
+    },
+    {
+      "i": "Canada",
+      "e": "Finland"
+    },
+    {
+      "i": "Germany",
+      "e": "Finland"
+    },
+    {
+      "i": "Greece",
+      "e": "Finland"
+    },
+    {
+      "i": "Italy",
+      "e": "Finland"
+    },
+    {
+      "i": "Norway",
+      "e": "Finland"
+    },
+    {
+      "i": "Russian Federation",
+      "e": "Finland"
+    },
+    {
+      "i": "Sweden",
+      "e": "Finland"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Finland"
+    },
+    {
+      "i": "United States",
+      "e": "Finland"
+    },
+    {
+      "i": "Australia",
+      "e": "France"
+    },
+    {
+      "i": "Canada",
+      "e": "France"
+    },
+    {
+      "i": "Denmark",
+      "e": "France"
+    },
+    {
+      "i": "Finland",
+      "e": "France"
+    },
+    {
+      "i": "Germany",
+      "e": "France"
+    },
+    {
+      "i": "Iceland",
+      "e": "France"
+    },
+    {
+      "i": "Madagascar",
+      "e": "France"
+    },
+    {
+      "i": "Portugal",
+      "e": "France"
+    },
+    {
+      "i": "Saudi Arabia",
+      "e": "France"
+    },
+    {
+      "i": "Spain",
+      "e": "France"
+    },
+    {
+      "i": "Sweden",
+      "e": "France"
+    },
+    {
+      "i": "Switzerland",
+      "e": "France"
+    },
+    {
+      "i": "Thailand",
+      "e": "France"
+    },
+    {
+      "i": "United States",
+      "e": "France"
+    },
+    {
+      "i": "Andorra",
+      "e": "Germany"
+    },
+    {
+      "i": "Argentina",
+      "e": "Germany"
+    },
+    {
+      "i": "Australia",
+      "e": "Germany"
+    },
+    {
+      "i": "Austria",
+      "e": "Germany"
+    },
+    {
+      "i": "Bangladesh",
+      "e": "Germany"
+    },
+    {
+      "i": "Belgium",
+      "e": "Germany"
+    },
+    {
+      "i": "Benin",
+      "e": "Germany"
+    },
+    {
+      "i": "Bolivia, Plurinational State of",
+      "e": "Germany"
+    },
+    {
+      "i": "Brazil",
+      "e": "Germany"
+    },
+    {
+      "i": "Brunei Darussalam",
+      "e": "Germany"
+    },
+    {
+      "i": "Burundi",
+      "e": "Germany"
+    },
+    {
+      "i": "Cameroon",
+      "e": "Germany"
+    },
+    {
+      "i": "Canada",
+      "e": "Germany"
+    },
+    {
+      "i": "Chile",
+      "e": "Germany"
+    },
+    {
+      "i": "China",
+      "e": "Germany"
+    },
+    {
+      "i": "Colombia",
+      "e": "Germany"
+    },
+    {
+      "i": "Costa Rica",
+      "e": "Germany"
+    },
+    {
+      "i": "Cyprus",
+      "e": "Germany"
+    },
+    {
+      "i": "Czechoslovakia",
+      "e": "Germany"
+    },
+    {
+      "i": "Denmark",
+      "e": "Germany"
+    },
+    {
+      "i": "Ecuador",
+      "e": "Germany"
+    },
+    {
+      "i": "Egypt",
+      "e": "Germany"
+    },
+    {
+      "i": "Finland",
+      "e": "Germany"
+    },
+    {
+      "i": "France",
+      "e": "Germany"
+    },
+    {
+      "i": "Gabon",
+      "e": "Germany"
+    },
+    {
+      "i": "Ghana",
+      "e": "Germany"
+    },
+    {
+      "i": "Greece",
+      "e": "Germany"
+    },
+    {
+      "i": "Hong Kong",
+      "e": "Germany"
+    },
+    {
+      "i": "Hungary",
+      "e": "Germany"
+    },
+    {
+      "i": "Indonesia",
+      "e": "Germany"
+    },
+    {
+      "i": "Ireland",
+      "e": "Germany"
+    },
+    {
+      "i": "Israel",
+      "e": "Germany"
+    },
+    {
+      "i": "Italy",
+      "e": "Germany"
+    },
+    {
+      "i": "Japan",
+      "e": "Germany"
+    },
+    {
+      "i": "Korea, Democratic People's Republic of",
+      "e": "Germany"
+    },
+    {
+      "i": "Korea, Republic of",
+      "e": "Germany"
+    },
+    {
+      "i": "Kuwait",
+      "e": "Germany"
+    },
+    {
+      "i": "Macao",
+      "e": "Germany"
+    },
+    {
+      "i": "Malaysia",
+      "e": "Germany"
+    },
+    {
+      "i": "Mexico",
+      "e": "Germany"
+    },
+    {
+      "i": "Mongolia",
+      "e": "Germany"
+    },
+    {
+      "i": "Netherlands",
+      "e": "Germany"
+    },
+    {
+      "i": "Netherlands Antilles",
+      "e": "Germany"
+    },
+    {
+      "i": "New Caledonia",
+      "e": "Germany"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Germany"
+    },
+    {
+      "i": "Niger",
+      "e": "Germany"
+    },
+    {
+      "i": "Norway",
+      "e": "Germany"
+    },
+    {
+      "i": "Oman",
+      "e": "Germany"
+    },
+    {
+      "i": "Pakistan",
+      "e": "Germany"
+    },
+    {
+      "i": "Panama",
+      "e": "Germany"
+    },
+    {
+      "i": "Papua New Guinea",
+      "e": "Germany"
+    },
+    {
+      "i": "Peru",
+      "e": "Germany"
+    },
+    {
+      "i": "Poland",
+      "e": "Germany"
+    },
+    {
+      "i": "Portugal",
+      "e": "Germany"
+    },
+    {
+      "i": "Qatar",
+      "e": "Germany"
+    },
+    {
+      "i": "Russian Federation",
+      "e": "Germany"
+    },
+    {
+      "i": "Rwanda",
+      "e": "Germany"
+    },
+    {
+      "i": "Samoa",
+      "e": "Germany"
+    },
+    {
+      "i": "Saudi Arabia",
+      "e": "Germany"
+    },
+    {
+      "i": "Senegal",
+      "e": "Germany"
+    },
+    {
+      "i": "Sierra Leone",
+      "e": "Germany"
+    },
+    {
+      "i": "Singapore",
+      "e": "Germany"
+    },
+    {
+      "i": "South Africa",
+      "e": "Germany"
+    },
+    {
+      "i": "Spain",
+      "e": "Germany"
+    },
+    {
+      "i": "Sri Lanka",
+      "e": "Germany"
+    },
+    {
+      "i": "Saint Lucia",
+      "e": "Germany"
+    },
+    {
+      "i": "Sweden",
+      "e": "Germany"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Germany"
+    },
+    {
+      "i": "Taiwan",
+      "e": "Germany"
+    },
+    {
+      "i": "Tanzania, United Republic of",
+      "e": "Germany"
+    },
+    {
+      "i": "Thailand",
+      "e": "Germany"
+    },
+    {
+      "i": "Togo",
+      "e": "Germany"
+    },
+    {
+      "i": "Tunisia",
+      "e": "Germany"
+    },
+    {
+      "i": "Turkey",
+      "e": "Germany"
+    },
+    {
+      "i": "United Arab Emirates",
+      "e": "Germany"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "Germany"
+    },
+    {
+      "i": "United States",
+      "e": "Germany"
+    },
+    {
+      "i": "Uruguay",
+      "e": "Germany"
+    },
+    {
+      "i": "Venezuela, Bolivarian Republic of",
+      "e": "Germany"
+    },
+    {
+      "i": "Zimbabwe",
+      "e": "Germany"
+    },
+    {
+      "i": "Spain",
+      "e": "Honduras"
+    },
+    {
+      "i": "Canada",
+      "e": "Hungary"
+    },
+    {
+      "i": "Chile",
+      "e": "Hungary"
+    },
+    {
+      "i": "Finland",
+      "e": "Hungary"
+    },
+    {
+      "i": "Germany",
+      "e": "Hungary"
+    },
+    {
+      "i": "Sweden",
+      "e": "Hungary"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Hungary"
+    },
+    {
+      "i": "Thailand",
+      "e": "Hungary"
+    },
+    {
+      "i": "United States",
+      "e": "Hungary"
+    },
+    {
+      "i": "Australia",
+      "e": "Israel"
+    },
+    {
+      "i": "Canada",
+      "e": "Israel"
+    },
+    {
+      "i": "Chile",
+      "e": "Israel"
+    },
+    {
+      "i": "Denmark",
+      "e": "Israel"
+    },
+    {
+      "i": "Finland",
+      "e": "Israel"
+    },
+    {
+      "i": "Germany",
+      "e": "Israel"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Israel"
+    },
+    {
+      "i": "Portugal",
+      "e": "Israel"
+    },
+    {
+      "i": "Spain",
+      "e": "Israel"
+    },
+    {
+      "i": "Sweden",
+      "e": "Israel"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Israel"
+    },
+    {
+      "i": "Thailand",
+      "e": "Israel"
+    },
+    {
+      "i": "United States",
+      "e": "Israel"
+    },
+    {
+      "i": "Algeria",
+      "e": "Italy"
+    },
+    {
+      "i": "Australia",
+      "e": "Italy"
+    },
+    {
+      "i": "Canada",
+      "e": "Italy"
+    },
+    {
+      "i": "Chile",
+      "e": "Italy"
+    },
+    {
+      "i": "Denmark",
+      "e": "Italy"
+    },
+    {
+      "i": "Finland",
+      "e": "Italy"
+    },
+    {
+      "i": "Germany",
+      "e": "Italy"
+    },
+    {
+      "i": "Iceland",
+      "e": "Italy"
+    },
+    {
+      "i": "Indonesia",
+      "e": "Italy"
+    },
+    {
+      "i": "Korea, Republic of",
+      "e": "Italy"
+    },
+    {
+      "i": "Madagascar",
+      "e": "Italy"
+    },
+    {
+      "i": "Malaysia",
+      "e": "Italy"
+    },
+    {
+      "i": "Mexico",
+      "e": "Italy"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Italy"
+    },
+    {
+      "i": "Portugal",
+      "e": "Italy"
+    },
+    {
+      "i": "Spain",
+      "e": "Italy"
+    },
+    {
+      "i": "Sweden",
+      "e": "Italy"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Italy"
+    },
+    {
+      "i": "Thailand",
+      "e": "Italy"
+    },
+    {
+      "i": "Tunisia",
+      "e": "Italy"
+    },
+    {
+      "i": "Turkey",
+      "e": "Italy"
+    },
+    {
+      "i": "United States",
+      "e": "Italy"
+    },
+    {
+      "i": "Guyana",
+      "e": "Jamaica"
+    },
+    {
+      "i": "Cambodia",
+      "e": "Japan"
+    },
+    {
+      "i": "Canada",
+      "e": "Japan"
+    },
+    {
+      "i": "Korea, Republic of",
+      "e": "Japan"
+    },
+    {
+      "i": "Spain",
+      "e": "Japan"
+    },
+    {
+      "i": "Sweden",
+      "e": "Korea, Democratic People's Republic of"
+    },
+    {
+      "i": "Australia",
+      "e": "Korea, Republic of"
+    },
+    {
+      "i": "Austria",
+      "e": "Korea, Republic of"
+    },
+    {
+      "i": "Chile",
+      "e": "Korea, Republic of"
+    },
+    {
+      "i": "Germany",
+      "e": "Korea, Republic of"
+    },
+    {
+      "i": "Peru",
+      "e": "Korea, Republic of"
+    },
+    {
+      "i": "Saudi Arabia",
+      "e": "Korea, Republic of"
+    },
+    {
+      "i": "Serbia",
+      "e": "Korea, Republic of"
+    },
+    {
+      "i": "Singapore",
+      "e": "Korea, Republic of"
+    },
+    {
+      "i": "Sweden",
+      "e": "Korea, Republic of"
+    },
+    {
+      "i": "Taiwan",
+      "e": "Korea, Republic of"
+    },
+    {
+      "i": "Thailand",
+      "e": "Korea, Republic of"
+    },
+    {
+      "i": "United States",
+      "e": "Korea, Republic of"
+    },
+    {
+      "i": "Unspecified Country",
+      "e": "Korea, Republic of"
+    },
+    {
+      "i": "Germany",
+      "e": "Latvia"
+    },
+    {
+      "i": "Sweden",
+      "e": "Lithuania"
+    },
+    {
+      "i": "Germany",
+      "e": "Malaysia"
+    },
+    {
+      "i": "Sweden",
+      "e": "Malaysia"
+    },
+    {
+      "i": "Unspecified Country",
+      "e": "Malaysia"
+    },
+    {
+      "i": "Canada",
+      "e": "Mexico"
+    },
+    {
+      "i": "Germany",
+      "e": "Netherlands"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Netherlands"
+    },
+    {
+      "i": "Australia",
+      "e": "New Zealand"
+    },
+    {
+      "i": "Germany",
+      "e": "New Zealand"
+    },
+    {
+      "i": "Samoa",
+      "e": "New Zealand"
+    },
+    {
+      "i": "Unspecified Country",
+      "e": "New Zealand"
+    },
+    {
+      "i": "Sweden",
+      "e": "Norway"
+    },
+    {
+      "i": "United States",
+      "e": "Poland"
+    },
+    {
+      "i": "Angola",
+      "e": "Portugal"
+    },
+    {
+      "i": "Belgium",
+      "e": "Portugal"
+    },
+    {
+      "i": "Cape Verde",
+      "e": "Portugal"
+    },
+    {
+      "i": "Germany",
+      "e": "Portugal"
+    },
+    {
+      "i": "Sao Tome and Principe",
+      "e": "Portugal"
+    },
+    {
+      "i": "Spain",
+      "e": "Portugal"
+    },
+    {
+      "i": "United States",
+      "e": "Portugal"
+    },
+    {
+      "i": "Unspecified Country",
+      "e": "Portugal"
+    },
+    {
+      "i": "Germany",
+      "e": "Romania"
+    },
+    {
+      "i": "Australia",
+      "e": "Russian Federation"
+    },
+    {
+      "i": "Canada",
+      "e": "Russian Federation"
+    },
+    {
+      "i": "Croatia",
+      "e": "Russian Federation"
+    },
+    {
+      "i": "Cyprus",
+      "e": "Russian Federation"
+    },
+    {
+      "i": "Finland",
+      "e": "Russian Federation"
+    },
+    {
+      "i": "Germany",
+      "e": "Russian Federation"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Russian Federation"
+    },
+    {
+      "i": "Sweden",
+      "e": "Russian Federation"
+    },
+    {
+      "i": "United States",
+      "e": "Russian Federation"
+    },
+    {
+      "i": "Belgium",
+      "e": "Saudi Arabia"
+    },
+    {
+      "i": "United States",
+      "e": "Saudi Arabia"
+    },
+    {
+      "i": "Unspecified Country",
+      "e": "Saudi Arabia"
+    },
+    {
+      "i": "Bulgaria",
+      "e": "Serbia"
+    },
+    {
+      "i": "Chile",
+      "e": "Serbia"
+    },
+    {
+      "i": "Germany",
+      "e": "Serbia"
+    },
+    {
+      "i": "Thailand",
+      "e": "Serbia"
+    },
+    {
+      "i": "United States",
+      "e": "Serbia"
+    },
+    {
+      "i": "Indonesia",
+      "e": "Singapore"
+    },
+    {
+      "i": "Malaysia",
+      "e": "Singapore"
+    },
+    {
+      "i": "Germany",
+      "e": "South Africa"
+    },
+    {
+      "i": "Switzerland",
+      "e": "South Africa"
+    },
+    {
+      "i": "Andorra",
+      "e": "Spain"
+    },
+    {
+      "i": "Angola",
+      "e": "Spain"
+    },
+    {
+      "i": "Argentina",
+      "e": "Spain"
+    },
+    {
+      "i": "Australia",
+      "e": "Spain"
+    },
+    {
+      "i": "Austria",
+      "e": "Spain"
+    },
+    {
+      "i": "Belgium",
+      "e": "Spain"
+    },
+    {
+      "i": "Bolivia, Plurinational State of",
+      "e": "Spain"
+    },
+    {
+      "i": "Canada",
+      "e": "Spain"
+    },
+    {
+      "i": "Chile",
+      "e": "Spain"
+    },
+    {
+      "i": "Colombia",
+      "e": "Spain"
+    },
+    {
+      "i": "Djibouti",
+      "e": "Spain"
+    },
+    {
+      "i": "Ecuador",
+      "e": "Spain"
+    },
+    {
+      "i": "Egypt",
+      "e": "Spain"
+    },
+    {
+      "i": "Finland",
+      "e": "Spain"
+    },
+    {
+      "i": "France",
+      "e": "Spain"
+    },
+    {
+      "i": "Germany",
+      "e": "Spain"
+    },
+    {
+      "i": "Greece",
+      "e": "Spain"
+    },
+    {
+      "i": "Guatemala",
+      "e": "Spain"
+    },
+    {
+      "i": "Israel",
+      "e": "Spain"
+    },
+    {
+      "i": "Italy",
+      "e": "Spain"
+    },
+    {
+      "i": "Malaysia",
+      "e": "Spain"
+    },
+    {
+      "i": "Nicaragua",
+      "e": "Spain"
+    },
+    {
+      "i": "Norway",
+      "e": "Spain"
+    },
+    {
+      "i": "Pakistan",
+      "e": "Spain"
+    },
+    {
+      "i": "Panama",
+      "e": "Spain"
+    },
+    {
+      "i": "Philippines",
+      "e": "Spain"
+    },
+    {
+      "i": "Poland",
+      "e": "Spain"
+    },
+    {
+      "i": "Portugal",
+      "e": "Spain"
+    },
+    {
+      "i": "South Africa",
+      "e": "Spain"
+    },
+    {
+      "i": "Suriname",
+      "e": "Spain"
+    },
+    {
+      "i": "Sweden",
+      "e": "Spain"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Spain"
+    },
+    {
+      "i": "Thailand",
+      "e": "Spain"
+    },
+    {
+      "i": "Togo",
+      "e": "Spain"
+    },
+    {
+      "i": "Tunisia",
+      "e": "Spain"
+    },
+    {
+      "i": "Turkey",
+      "e": "Spain"
+    },
+    {
+      "i": "Uganda",
+      "e": "Spain"
+    },
+    {
+      "i": "United Arab Emirates",
+      "e": "Spain"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "Spain"
+    },
+    {
+      "i": "United States",
+      "e": "Spain"
+    },
+    {
+      "i": "Unspecified Country",
+      "e": "Spain"
+    },
+    {
+      "i": "Uruguay",
+      "e": "Spain"
+    },
+    {
+      "i": "Venezuela, Bolivarian Republic of",
+      "e": "Spain"
+    },
+    {
+      "i": "Austria",
+      "e": "Sweden"
+    },
+    {
+      "i": "Canada",
+      "e": "Sweden"
+    },
+    {
+      "i": "Denmark",
+      "e": "Sweden"
+    },
+    {
+      "i": "Finland",
+      "e": "Sweden"
+    },
+    {
+      "i": "Germany",
+      "e": "Sweden"
+    },
+    {
+      "i": "Italy",
+      "e": "Sweden"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Sweden"
+    },
+    {
+      "i": "Norway",
+      "e": "Sweden"
+    },
+    {
+      "i": "Poland",
+      "e": "Sweden"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Sweden"
+    },
+    {
+      "i": "Tunisia",
+      "e": "Sweden"
+    },
+    {
+      "i": "United States",
+      "e": "Sweden"
+    },
+    {
+      "i": "Unspecified Country",
+      "e": "Sweden"
+    },
+    {
+      "i": "Algeria",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Argentina",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Australia",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Austria",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Barbados",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Belgium",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Bhutan",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Brazil",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Bulgaria",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Canada",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Chile",
+      "e": "Switzerland"
+    },
+    {
+      "i": "China",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Colombia",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Cyprus",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Czechoslovakia",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Denmark",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Dominican Republic",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Egypt",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Finland",
+      "e": "Switzerland"
+    },
+    {
+      "i": "France",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Germany",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Ghana",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Greece",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Guatemala",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Guinea",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Guyana",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Hong Kong",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Hungary",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Iceland",
+      "e": "Switzerland"
+    },
+    {
+      "i": "India",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Iran, Islamic Republic of",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Italy",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Côte d'Ivoire",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Japan",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Jordan",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Kenya",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Korea, Republic of",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Kuwait",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Madagascar",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Malaysia",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Mexico",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Netherlands",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Netherlands Antilles",
+      "e": "Switzerland"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Norway",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Oman",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Pakistan",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Paraguay",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Poland",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Portugal",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Qatar",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Russian Federation",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Rwanda",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Samoa",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Saudi Arabia",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Singapore",
+      "e": "Switzerland"
+    },
+    {
+      "i": "South Africa",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Spain",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Sri Lanka",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Suriname",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Sweden",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Taiwan",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Tanzania, United Republic of",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Thailand",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Trinidad and Tobago",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Tunisia",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Turkey",
+      "e": "Switzerland"
+    },
+    {
+      "i": "United Arab Emirates",
+      "e": "Switzerland"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "Switzerland"
+    },
+    {
+      "i": "United States",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Unspecified Country",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Venezuela, Bolivarian Republic of",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Viet Nam",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Germany",
+      "e": "Taiwan"
+    },
+    {
+      "i": "Indonesia",
+      "e": "Taiwan"
+    },
+    {
+      "i": "Sweden",
+      "e": "Thailand"
+    },
+    {
+      "i": "Cyprus",
+      "e": "Turkey"
+    },
+    {
+      "i": "Norway",
+      "e": "Turkey"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Turkey"
+    },
+    {
+      "i": "Australia",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Bangladesh",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Canada",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Denmark",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Finland",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Germany",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Indonesia",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Kenya",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Korea, Republic of",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Malaysia",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "New Zealand",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Saudi Arabia",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Spain",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Sweden",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Switzerland",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Thailand",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Turkey",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "United States",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Anguilla",
+      "e": "United States"
+    },
+    {
+      "i": "Argentina",
+      "e": "United States"
+    },
+    {
+      "i": "Australia",
+      "e": "United States"
+    },
+    {
+      "i": "Austria",
+      "e": "United States"
+    },
+    {
+      "i": "Bahamas",
+      "e": "United States"
+    },
+    {
+      "i": "Bahrain",
+      "e": "United States"
+    },
+    {
+      "i": "Bangladesh",
+      "e": "United States"
+    },
+    {
+      "i": "Barbados",
+      "e": "United States"
+    },
+    {
+      "i": "Belgium",
+      "e": "United States"
+    },
+    {
+      "i": "Belize",
+      "e": "United States"
+    },
+    {
+      "i": "Bhutan",
+      "e": "United States"
+    },
+    {
+      "i": "Bolivia, Plurinational State of",
+      "e": "United States"
+    },
+    {
+      "i": "Brazil",
+      "e": "United States"
+    },
+    {
+      "i": "British Virgin Islands",
+      "e": "United States"
+    },
+    {
+      "i": "Canada",
+      "e": "United States"
+    },
+    {
+      "i": "Chile",
+      "e": "United States"
+    },
+    {
+      "i": "Colombia",
+      "e": "United States"
+    },
+    {
+      "i": "Costa Rica",
+      "e": "United States"
+    },
+    {
+      "i": "Czechoslovakia",
+      "e": "United States"
+    },
+    {
+      "i": "Denmark",
+      "e": "United States"
+    },
+    {
+      "i": "Dominican Republic",
+      "e": "United States"
+    },
+    {
+      "i": "Ecuador",
+      "e": "United States"
+    },
+    {
+      "i": "Egypt",
+      "e": "United States"
+    },
+    {
+      "i": "El Salvador",
+      "e": "United States"
+    },
+    {
+      "i": "Finland",
+      "e": "United States"
+    },
+    {
+      "i": "France",
+      "e": "United States"
+    },
+    {
+      "i": "Germany",
+      "e": "United States"
+    },
+    {
+      "i": "Ghana",
+      "e": "United States"
+    },
+    {
+      "i": "Greece",
+      "e": "United States"
+    },
+    {
+      "i": "Guatemala",
+      "e": "United States"
+    },
+    {
+      "i": "Guyana",
+      "e": "United States"
+    },
+    {
+      "i": "Honduras",
+      "e": "United States"
+    },
+    {
+      "i": "Hong Kong",
+      "e": "United States"
+    },
+    {
+      "i": "Hungary",
+      "e": "United States"
+    },
+    {
+      "i": "Iceland",
+      "e": "United States"
+    },
+    {
+      "i": "Israel",
+      "e": "United States"
+    },
+    {
+      "i": "Italy",
+      "e": "United States"
+    },
+    {
+      "i": "Jamaica",
+      "e": "United States"
+    },
+    {
+      "i": "Japan",
+      "e": "United States"
+    },
+    {
+      "i": "Jordan",
+      "e": "United States"
+    },
+    {
+      "i": "Kenya",
+      "e": "United States"
+    },
+    {
+      "i": "Korea, Republic of",
+      "e": "United States"
+    },
+    {
+      "i": "Kuwait",
+      "e": "United States"
+    },
+    {
+      "i": "Lebanon",
+      "e": "United States"
+    },
+    {
+      "i": "Macao",
+      "e": "United States"
+    },
+    {
+      "i": "Malaysia",
+      "e": "United States"
+    },
+    {
+      "i": "Mexico",
+      "e": "United States"
+    },
+    {
+      "i": "Netherlands",
+      "e": "United States"
+    },
+    {
+      "i": "New Zealand",
+      "e": "United States"
+    },
+    {
+      "i": "Nicaragua",
+      "e": "United States"
+    },
+    {
+      "i": "Norway",
+      "e": "United States"
+    },
+    {
+      "i": "Oman",
+      "e": "United States"
+    },
+    {
+      "i": "Panama",
+      "e": "United States"
+    },
+    {
+      "i": "Paraguay",
+      "e": "United States"
+    },
+    {
+      "i": "Peru",
+      "e": "United States"
+    },
+    {
+      "i": "Philippines",
+      "e": "United States"
+    },
+    {
+      "i": "Portugal",
+      "e": "United States"
+    },
+    {
+      "i": "Saudi Arabia",
+      "e": "United States"
+    },
+    {
+      "i": "Singapore",
+      "e": "United States"
+    },
+    {
+      "i": "South Africa",
+      "e": "United States"
+    },
+    {
+      "i": "Spain",
+      "e": "United States"
+    },
+    {
+      "i": "Saint Lucia",
+      "e": "United States"
+    },
+    {
+      "i": "Sweden",
+      "e": "United States"
+    },
+    {
+      "i": "Switzerland",
+      "e": "United States"
+    },
+    {
+      "i": "Taiwan",
+      "e": "United States"
+    },
+    {
+      "i": "Thailand",
+      "e": "United States"
+    },
+    {
+      "i": "Trinidad and Tobago",
+      "e": "United States"
+    },
+    {
+      "i": "Tunisia",
+      "e": "United States"
+    },
+    {
+      "i": "Turkey",
+      "e": "United States"
+    },
+    {
+      "i": "United Arab Emirates",
+      "e": "United States"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "United States"
+    },
+    {
+      "i": "Uruguay",
+      "e": "United States"
+    },
+    {
+      "i": "Venezuela, Bolivarian Republic of",
+      "e": "United States"
+    },
+    {
+      "i": "Belize",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "Canada",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "Chile",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "Guyana",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "Iceland",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "Indonesia",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "Kenya",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "Portugal",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "Spain",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "Sri Lanka",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "Saint Lucia",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "Sweden",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "Thailand",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "Netherlands",
+      "e": "Argentina"
+    },
+    {
+      "i": "Cyprus",
+      "e": "Australia"
+    },
+    {
+      "i": "Fiji",
+      "e": "Australia"
+    },
+    {
+      "i": "Greece",
+      "e": "Australia"
+    },
+    {
+      "i": "Italy",
+      "e": "Australia"
+    },
+    {
+      "i": "Japan",
+      "e": "Australia"
+    },
+    {
+      "i": "Solomon Islands",
+      "e": "Australia"
+    },
+    {
+      "i": "Spain",
+      "e": "Australia"
+    },
+    {
+      "i": "Taiwan",
+      "e": "Australia"
+    },
+    {
+      "i": "Thailand",
+      "e": "Australia"
+    },
+    {
+      "i": "U.S. Pacific Trust Territories",
+      "e": "Australia"
+    },
+    {
+      "i": "Unspecified Country",
+      "e": "Australia"
+    },
+    {
+      "i": "Netherlands",
+      "e": "Austria"
+    },
+    {
+      "i": "Portugal",
+      "e": "Austria"
+    },
+    {
+      "i": "Chile",
+      "e": "Belgium"
+    },
+    {
+      "i": "China",
+      "e": "Belgium"
+    },
+    {
+      "i": "Croatia",
+      "e": "Belgium"
+    },
+    {
+      "i": "Cyprus",
+      "e": "Belgium"
+    },
+    {
+      "i": "Greece",
+      "e": "Belgium"
+    },
+    {
+      "i": "Japan",
+      "e": "Belgium"
+    },
+    {
+      "i": "Korea, Republic of",
+      "e": "Belgium"
+    },
+    {
+      "i": "Madagascar",
+      "e": "Belgium"
+    },
+    {
+      "i": "Netherlands",
+      "e": "Belgium"
+    },
+    {
+      "i": "Singapore",
+      "e": "Belgium"
+    },
+    {
+      "i": "Argentina",
+      "e": "Brazil"
+    },
+    {
+      "i": "Austria",
+      "e": "Brazil"
+    },
+    {
+      "i": "Bolivia, Plurinational State of",
+      "e": "Brazil"
+    },
+    {
+      "i": "Cyprus",
+      "e": "Brazil"
+    },
+    {
+      "i": "France",
+      "e": "Brazil"
+    },
+    {
+      "i": "Greece",
+      "e": "Brazil"
+    },
+    {
+      "i": "Guatemala",
+      "e": "Brazil"
+    },
+    {
+      "i": "Jordan",
+      "e": "Brazil"
+    },
+    {
+      "i": "Lebanon",
+      "e": "Brazil"
+    },
+    {
+      "i": "Panama",
+      "e": "Brazil"
+    },
+    {
+      "i": "Singapore",
+      "e": "Brazil"
+    },
+    {
+      "i": "South Africa",
+      "e": "Brazil"
+    },
+    {
+      "i": "Turkey",
+      "e": "Brazil"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "Brazil"
+    },
+    {
+      "i": "Uruguay",
+      "e": "Brazil"
+    },
+    {
+      "i": "Venezuela, Bolivarian Republic of",
+      "e": "Brazil"
+    },
+    {
+      "i": "Germany",
+      "e": "Brunei Darussalam"
+    },
+    {
+      "i": "Malaysia",
+      "e": "Bulgaria"
+    },
+    {
+      "i": "Cyprus",
+      "e": "Canada"
+    },
+    {
+      "i": "Greece",
+      "e": "Canada"
+    },
+    {
+      "i": "Hungary",
+      "e": "Canada"
+    },
+    {
+      "i": "Nicaragua",
+      "e": "Canada"
+    },
+    {
+      "i": "Argentina",
+      "e": "China"
+    },
+    {
+      "i": "Greece",
+      "e": "China"
+    },
+    {
+      "i": "Serbia",
+      "e": "China"
+    },
+    {
+      "i": "Unspecified Country",
+      "e": "China"
+    },
+    {
+      "i": "Slovenia",
+      "e": "Croatia"
+    },
+    {
+      "i": "Austria",
+      "e": "Cyprus"
+    },
+    {
+      "i": "Bulgaria",
+      "e": "Cyprus"
+    },
+    {
+      "i": "Canada",
+      "e": "Cyprus"
+    },
+    {
+      "i": "Egypt",
+      "e": "Cyprus"
+    },
+    {
+      "i": "France",
+      "e": "Cyprus"
+    },
+    {
+      "i": "Germany",
+      "e": "Cyprus"
+    },
+    {
+      "i": "Greece",
+      "e": "Cyprus"
+    },
+    {
+      "i": "Hungary",
+      "e": "Cyprus"
+    },
+    {
+      "i": "Italy",
+      "e": "Cyprus"
+    },
+    {
+      "i": "Jordan",
+      "e": "Cyprus"
+    },
+    {
+      "i": "Korea, Republic of",
+      "e": "Cyprus"
+    },
+    {
+      "i": "Kuwait",
+      "e": "Cyprus"
+    },
+    {
+      "i": "Lebanon",
+      "e": "Cyprus"
+    },
+    {
+      "i": "Libya",
+      "e": "Cyprus"
+    },
+    {
+      "i": "Malta",
+      "e": "Cyprus"
+    },
+    {
+      "i": "Poland",
+      "e": "Cyprus"
+    },
+    {
+      "i": "Russian Federation",
+      "e": "Cyprus"
+    },
+    {
+      "i": "Spain",
+      "e": "Cyprus"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Cyprus"
+    },
+    {
+      "i": "Syrian Arab Republic",
+      "e": "Cyprus"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "Cyprus"
+    },
+    {
+      "i": "Unspecified Country",
+      "e": "Cyprus"
+    },
+    {
+      "i": "Australia",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Cyprus",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Ireland",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Netherlands",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Singapore",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Australia",
+      "e": "Denmark"
+    },
+    {
+      "i": "Faroe Islands",
+      "e": "Denmark"
+    },
+    {
+      "i": "Finland",
+      "e": "Denmark"
+    },
+    {
+      "i": "Greenland",
+      "e": "Denmark"
+    },
+    {
+      "i": "Japan",
+      "e": "Denmark"
+    },
+    {
+      "i": "Netherlands",
+      "e": "Denmark"
+    },
+    {
+      "i": "Portugal",
+      "e": "Denmark"
+    },
+    {
+      "i": "Spain",
+      "e": "Denmark"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "Denmark"
+    },
+    {
+      "i": "United States",
+      "e": "Denmark"
+    },
+    {
+      "i": "Germany",
+      "e": "Estonia"
+    },
+    {
+      "i": "Greece",
+      "e": "Estonia"
+    },
+    {
+      "i": "Austria",
+      "e": "Finland"
+    },
+    {
+      "i": "Denmark",
+      "e": "Finland"
+    },
+    {
+      "i": "Latvia",
+      "e": "Finland"
+    },
+    {
+      "i": "Mexico",
+      "e": "Finland"
+    },
+    {
+      "i": "Poland",
+      "e": "Finland"
+    },
+    {
+      "i": "Spain",
+      "e": "Finland"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "Finland"
+    },
+    {
+      "i": "Unspecified Country",
+      "e": "Finland"
+    },
+    {
+      "i": "Chile",
+      "e": "France"
+    },
+    {
+      "i": "Cyprus",
+      "e": "France"
+    },
+    {
+      "i": "Greece",
+      "e": "France"
+    },
+    {
+      "i": "Tunisia",
+      "e": "France"
+    },
+    {
+      "i": "Bulgaria",
+      "e": "Germany"
+    },
+    {
+      "i": "Congo",
+      "e": "Germany"
+    },
+    {
+      "i": "Ethiopia",
+      "e": "Germany"
+    },
+    {
+      "i": "Georgia",
+      "e": "Germany"
+    },
+    {
+      "i": "Greenland",
+      "e": "Germany"
+    },
+    {
+      "i": "Iceland",
+      "e": "Germany"
+    },
+    {
+      "i": "Iran, Islamic Republic of",
+      "e": "Germany"
+    },
+    {
+      "i": "Latvia",
+      "e": "Germany"
+    },
+    {
+      "i": "Lebanon",
+      "e": "Germany"
+    },
+    {
+      "i": "Libya",
+      "e": "Germany"
+    },
+    {
+      "i": "Lithuania",
+      "e": "Germany"
+    },
+    {
+      "i": "Madagascar",
+      "e": "Germany"
+    },
+    {
+      "i": "Malawi",
+      "e": "Germany"
+    },
+    {
+      "i": "Malta",
+      "e": "Germany"
+    },
+    {
+      "i": "Paraguay",
+      "e": "Germany"
+    },
+    {
+      "i": "Romania",
+      "e": "Germany"
+    },
+    {
+      "i": "Zambia",
+      "e": "Germany"
+    },
+    {
+      "i": "Thailand",
+      "e": "Ghana"
+    },
+    {
+      "i": "Australia",
+      "e": "Greece"
+    },
+    {
+      "i": "Belgium",
+      "e": "Greece"
+    },
+    {
+      "i": "Cyprus",
+      "e": "Greece"
+    },
+    {
+      "i": "Germany",
+      "e": "Greece"
+    },
+    {
+      "i": "Italy",
+      "e": "Greece"
+    },
+    {
+      "i": "Singapore",
+      "e": "Greece"
+    },
+    {
+      "i": "Sweden",
+      "e": "Greece"
+    },
+    {
+      "i": "Unspecified Country",
+      "e": "Greece"
+    },
+    {
+      "i": "Australia",
+      "e": "India"
+    },
+    {
+      "i": "Nepal",
+      "e": "India"
+    },
+    {
+      "i": "Sweden",
+      "e": "Iran, Islamic Republic of"
+    },
+    {
+      "i": "Cyprus",
+      "e": "Ireland"
+    },
+    {
+      "i": "France",
+      "e": "Ireland"
+    },
+    {
+      "i": "Germany",
+      "e": "Ireland"
+    },
+    {
+      "i": "Iceland",
+      "e": "Ireland"
+    },
+    {
+      "i": "Italy",
+      "e": "Ireland"
+    },
+    {
+      "i": "Spain",
+      "e": "Ireland"
+    },
+    {
+      "i": "Sweden",
+      "e": "Ireland"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "Ireland"
+    },
+    {
+      "i": "United States",
+      "e": "Ireland"
+    },
+    {
+      "i": "China",
+      "e": "Italy"
+    },
+    {
+      "i": "Croatia",
+      "e": "Italy"
+    },
+    {
+      "i": "Cyprus",
+      "e": "Italy"
+    },
+    {
+      "i": "Greece",
+      "e": "Italy"
+    },
+    {
+      "i": "Ireland",
+      "e": "Italy"
+    },
+    {
+      "i": "Japan",
+      "e": "Italy"
+    },
+    {
+      "i": "Macao",
+      "e": "Italy"
+    },
+    {
+      "i": "Netherlands",
+      "e": "Italy"
+    },
+    {
+      "i": "Saudi Arabia",
+      "e": "Italy"
+    },
+    {
+      "i": "Serbia",
+      "e": "Italy"
+    },
+    {
+      "i": "Singapore",
+      "e": "Italy"
+    },
+    {
+      "i": "Australia",
+      "e": "Japan"
+    },
+    {
+      "i": "Austria",
+      "e": "Japan"
+    },
+    {
+      "i": "Belgium",
+      "e": "Japan"
+    },
+    {
+      "i": "Cyprus",
+      "e": "Japan"
+    },
+    {
+      "i": "Denmark",
+      "e": "Japan"
+    },
+    {
+      "i": "Finland",
+      "e": "Japan"
+    },
+    {
+      "i": "France",
+      "e": "Japan"
+    },
+    {
+      "i": "Germany",
+      "e": "Japan"
+    },
+    {
+      "i": "Greece",
+      "e": "Japan"
+    },
+    {
+      "i": "Ireland",
+      "e": "Japan"
+    },
+    {
+      "i": "Italy",
+      "e": "Japan"
+    },
+    {
+      "i": "Netherlands",
+      "e": "Japan"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Japan"
+    },
+    {
+      "i": "Norway",
+      "e": "Japan"
+    },
+    {
+      "i": "Portugal",
+      "e": "Japan"
+    },
+    {
+      "i": "Singapore",
+      "e": "Japan"
+    },
+    {
+      "i": "Sweden",
+      "e": "Japan"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Japan"
+    },
+    {
+      "i": "Thailand",
+      "e": "Japan"
+    },
+    {
+      "i": "Turkey",
+      "e": "Japan"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "Japan"
+    },
+    {
+      "i": "United States",
+      "e": "Japan"
+    },
+    {
+      "i": "Indonesia",
+      "e": "Korea, Republic of"
+    },
+    {
+      "i": "Italy",
+      "e": "Korea, Republic of"
+    },
+    {
+      "i": "Philippines",
+      "e": "Korea, Republic of"
+    },
+    {
+      "i": "Greece",
+      "e": "Latvia"
+    },
+    {
+      "i": "Greece",
+      "e": "Lithuania"
+    },
+    {
+      "i": "Unspecified Country",
+      "e": "Macao"
+    },
+    {
+      "i": "Unspecified Country",
+      "e": "Madagascar"
+    },
+    {
+      "i": "Singapore",
+      "e": "Malaysia"
+    },
+    {
+      "i": "Algeria",
+      "e": "Morocco"
+    },
+    {
+      "i": "Argentina",
+      "e": "Netherlands"
+    },
+    {
+      "i": "Australia",
+      "e": "Netherlands"
+    },
+    {
+      "i": "Belgium",
+      "e": "Netherlands"
+    },
+    {
+      "i": "Denmark",
+      "e": "Netherlands"
+    },
+    {
+      "i": "Greece",
+      "e": "Netherlands"
+    },
+    {
+      "i": "Italy",
+      "e": "Netherlands"
+    },
+    {
+      "i": "Malawi",
+      "e": "Netherlands"
+    },
+    {
+      "i": "Nigeria",
+      "e": "Netherlands"
+    },
+    {
+      "i": "Spain",
+      "e": "Netherlands"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "Netherlands"
+    },
+    {
+      "i": "United States",
+      "e": "Netherlands"
+    },
+    {
+      "i": "French Polynesia",
+      "e": "New Zealand"
+    },
+    {
+      "i": "New Caledonia",
+      "e": "New Zealand"
+    },
+    {
+      "i": "Norfolk Island",
+      "e": "New Zealand"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "New Zealand"
+    },
+    {
+      "i": "United States",
+      "e": "New Zealand"
+    },
+    {
+      "i": "Denmark",
+      "e": "Norway"
+    },
+    {
+      "i": "Germany",
+      "e": "Norway"
+    },
+    {
+      "i": "Iceland",
+      "e": "Norway"
+    },
+    {
+      "i": "Ireland",
+      "e": "Norway"
+    },
+    {
+      "i": "Spain",
+      "e": "Norway"
+    },
+    {
+      "i": "Australia",
+      "e": "Philippines"
+    },
+    {
+      "i": "Canada",
+      "e": "Philippines"
+    },
+    {
+      "i": "Germany",
+      "e": "Philippines"
+    },
+    {
+      "i": "Greece",
+      "e": "Philippines"
+    },
+    {
+      "i": "Ireland",
+      "e": "Philippines"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Philippines"
+    },
+    {
+      "i": "Spain",
+      "e": "Philippines"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Philippines"
+    },
+    {
+      "i": "United States",
+      "e": "Philippines"
+    },
+    {
+      "i": "Turkey",
+      "e": "Poland"
+    },
+    {
+      "i": "Canada",
+      "e": "Portugal"
+    },
+    {
+      "i": "Finland",
+      "e": "Portugal"
+    },
+    {
+      "i": "France",
+      "e": "Portugal"
+    },
+    {
+      "i": "Greece",
+      "e": "Portugal"
+    },
+    {
+      "i": "Guinea-Bissau",
+      "e": "Portugal"
+    },
+    {
+      "i": "Italy",
+      "e": "Portugal"
+    },
+    {
+      "i": "Korea, Republic of",
+      "e": "Portugal"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Portugal"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "Portugal"
+    },
+    {
+      "i": "Chile",
+      "e": "Russian Federation"
+    },
+    {
+      "i": "Greece",
+      "e": "Russian Federation"
+    },
+    {
+      "i": "Iceland",
+      "e": "Russian Federation"
+    },
+    {
+      "i": "Ireland",
+      "e": "Russian Federation"
+    },
+    {
+      "i": "Portugal",
+      "e": "Russian Federation"
+    },
+    {
+      "i": "Thailand",
+      "e": "Russian Federation"
+    },
+    {
+      "i": "Turkey",
+      "e": "Russian Federation"
+    },
+    {
+      "i": "Ireland",
+      "e": "Serbia"
+    },
+    {
+      "i": "Bangladesh",
+      "e": "Singapore"
+    },
+    {
+      "i": "Hong Kong",
+      "e": "Singapore"
+    },
+    {
+      "i": "Japan",
+      "e": "Singapore"
+    },
+    {
+      "i": "Nepal",
+      "e": "Singapore"
+    },
+    {
+      "i": "Papua New Guinea",
+      "e": "Singapore"
+    },
+    {
+      "i": "Taiwan",
+      "e": "Singapore"
+    },
+    {
+      "i": "United States",
+      "e": "Singapore"
+    },
+    {
+      "i": "Cyprus",
+      "e": "South Africa"
+    },
+    {
+      "i": "Netherlands",
+      "e": "South Africa"
+    },
+    {
+      "i": "Cyprus",
+      "e": "Spain"
+    },
+    {
+      "i": "Czechoslovakia",
+      "e": "Spain"
+    },
+    {
+      "i": "Denmark",
+      "e": "Spain"
+    },
+    {
+      "i": "Equatorial Guinea",
+      "e": "Spain"
+    },
+    {
+      "i": "Iceland",
+      "e": "Spain"
+    },
+    {
+      "i": "Ireland",
+      "e": "Spain"
+    },
+    {
+      "i": "Japan",
+      "e": "Spain"
+    },
+    {
+      "i": "Korea, Republic of",
+      "e": "Spain"
+    },
+    {
+      "i": "Kuwait",
+      "e": "Spain"
+    },
+    {
+      "i": "Lebanon",
+      "e": "Spain"
+    },
+    {
+      "i": "Malta",
+      "e": "Spain"
+    },
+    {
+      "i": "Mauritius",
+      "e": "Spain"
+    },
+    {
+      "i": "Mexico",
+      "e": "Spain"
+    },
+    {
+      "i": "Netherlands",
+      "e": "Spain"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Spain"
+    },
+    {
+      "i": "Algeria",
+      "e": "Sweden"
+    },
+    {
+      "i": "Belgium",
+      "e": "Sweden"
+    },
+    {
+      "i": "Cyprus",
+      "e": "Sweden"
+    },
+    {
+      "i": "France",
+      "e": "Sweden"
+    },
+    {
+      "i": "Greece",
+      "e": "Sweden"
+    },
+    {
+      "i": "Guinea-Bissau",
+      "e": "Sweden"
+    },
+    {
+      "i": "Hungary",
+      "e": "Sweden"
+    },
+    {
+      "i": "Iceland",
+      "e": "Sweden"
+    },
+    {
+      "i": "Japan",
+      "e": "Sweden"
+    },
+    {
+      "i": "Korea, Republic of",
+      "e": "Sweden"
+    },
+    {
+      "i": "Latvia",
+      "e": "Sweden"
+    },
+    {
+      "i": "Netherlands",
+      "e": "Sweden"
+    },
+    {
+      "i": "Russian Federation",
+      "e": "Sweden"
+    },
+    {
+      "i": "Spain",
+      "e": "Sweden"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "Sweden"
+    },
+    {
+      "i": "Bahrain",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Israel",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Cyprus",
+      "e": "Taiwan"
+    },
+    {
+      "i": "Unspecified Country",
+      "e": "Thailand"
+    },
+    {
+      "i": "Canada",
+      "e": "Turkey"
+    },
+    {
+      "i": "Chile",
+      "e": "Turkey"
+    },
+    {
+      "i": "Denmark",
+      "e": "Turkey"
+    },
+    {
+      "i": "Finland",
+      "e": "Turkey"
+    },
+    {
+      "i": "Germany",
+      "e": "Turkey"
+    },
+    {
+      "i": "Greece",
+      "e": "Turkey"
+    },
+    {
+      "i": "Lebanon",
+      "e": "Turkey"
+    },
+    {
+      "i": "Sweden",
+      "e": "Turkey"
+    },
+    {
+      "i": "Germany",
+      "e": "United Arab Emirates"
+    },
+    {
+      "i": "Chile",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "China",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Cyprus",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Greece",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Iceland",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Ireland",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Japan",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Netherlands",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Portugal",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Singapore",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "United Arab Emirates",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Cyprus",
+      "e": "United States"
+    },
+    {
+      "i": "French Polynesia",
+      "e": "United States"
+    },
+    {
+      "i": "Ireland",
+      "e": "United States"
+    },
+    {
+      "i": "Malta",
+      "e": "United States"
+    },
+    {
+      "i": "New Caledonia",
+      "e": "United States"
+    },
+    {
+      "i": "Nigeria",
+      "e": "United States"
+    },
+    {
+      "i": "Pakistan",
+      "e": "United States"
+    },
+    {
+      "i": "Papua New Guinea",
+      "e": "United States"
+    },
+    {
+      "i": "Qatar",
+      "e": "United States"
+    },
+    {
+      "i": "Russian Federation",
+      "e": "United States"
+    },
+    {
+      "i": "Serbia",
+      "e": "United States"
+    },
+    {
+      "i": "Zambia",
+      "e": "United States"
+    },
+    {
+      "i": "Zimbabwe",
+      "e": "United States"
+    },
+    {
+      "i": "Algeria",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "Australia",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "Bangladesh",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "Cyprus",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "Greece",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "Ireland",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "Korea, Republic of",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "Madagascar",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "Malaysia",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Unspecified Country"
+    },
+    {
+      "i": "Spain",
+      "e": "Venezuela, Bolivarian Republic of"
+    },
+    {
+      "i": "Spain",
+      "e": "Andorra"
+    },
+    {
+      "i": "Canada",
+      "e": "Argentina"
+    },
+    {
+      "i": "Paraguay",
+      "e": "Argentina"
+    },
+    {
+      "i": "Canada",
+      "e": "Australia"
+    },
+    {
+      "i": "Fiji",
+      "e": "Australia"
+    },
+    {
+      "i": "Germany",
+      "e": "Australia"
+    },
+    {
+      "i": "Ireland",
+      "e": "Australia"
+    },
+    {
+      "i": "Italy",
+      "e": "Australia"
+    },
+    {
+      "i": "New Caledonia",
+      "e": "Australia"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Australia"
+    },
+    {
+      "i": "Papua New Guinea",
+      "e": "Australia"
+    },
+    {
+      "i": "Solomon Islands",
+      "e": "Australia"
+    },
+    {
+      "i": "U.S. Pacific Trust Territories",
+      "e": "Australia"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "Australia"
+    },
+    {
+      "i": "United States",
+      "e": "Australia"
+    },
+    {
+      "i": "Australia",
+      "e": "Austria"
+    },
+    {
+      "i": "Canada",
+      "e": "Austria"
+    },
+    {
+      "i": "Denmark",
+      "e": "Austria"
+    },
+    {
+      "i": "Finland",
+      "e": "Austria"
+    },
+    {
+      "i": "Germany",
+      "e": "Austria"
+    },
+    {
+      "i": "Indonesia",
+      "e": "Austria"
+    },
+    {
+      "i": "Ireland",
+      "e": "Austria"
+    },
+    {
+      "i": "Japan",
+      "e": "Austria"
+    },
+    {
+      "i": "Korea, Republic of",
+      "e": "Austria"
+    },
+    {
+      "i": "Netherlands",
+      "e": "Austria"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Austria"
+    },
+    {
+      "i": "Portugal",
+      "e": "Austria"
+    },
+    {
+      "i": "Spain",
+      "e": "Austria"
+    },
+    {
+      "i": "Sweden",
+      "e": "Austria"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Austria"
+    },
+    {
+      "i": "Thailand",
+      "e": "Austria"
+    },
+    {
+      "i": "United States",
+      "e": "Austria"
+    },
+    {
+      "i": "Canada",
+      "e": "Belgium"
+    },
+    {
+      "i": "Croatia",
+      "e": "Belgium"
+    },
+    {
+      "i": "Denmark",
+      "e": "Belgium"
+    },
+    {
+      "i": "Finland",
+      "e": "Belgium"
+    },
+    {
+      "i": "Germany",
+      "e": "Belgium"
+    },
+    {
+      "i": "Japan",
+      "e": "Belgium"
+    },
+    {
+      "i": "Korea, Republic of",
+      "e": "Belgium"
+    },
+    {
+      "i": "Netherlands",
+      "e": "Belgium"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Belgium"
+    },
+    {
+      "i": "Portugal",
+      "e": "Belgium"
+    },
+    {
+      "i": "Singapore",
+      "e": "Belgium"
+    },
+    {
+      "i": "Spain",
+      "e": "Belgium"
+    },
+    {
+      "i": "Sweden",
+      "e": "Belgium"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Belgium"
+    },
+    {
+      "i": "Turkey",
+      "e": "Belgium"
+    },
+    {
+      "i": "United States",
+      "e": "Belgium"
+    },
+    {
+      "i": "Angola",
+      "e": "Brazil"
+    },
+    {
+      "i": "Anguilla",
+      "e": "Brazil"
+    },
+    {
+      "i": "Argentina",
+      "e": "Brazil"
+    },
+    {
+      "i": "Australia",
+      "e": "Brazil"
+    },
+    {
+      "i": "Austria",
+      "e": "Brazil"
+    },
+    {
+      "i": "Belgium",
+      "e": "Brazil"
+    },
+    {
+      "i": "Bolivia, Plurinational State of",
+      "e": "Brazil"
+    },
+    {
+      "i": "Canada",
+      "e": "Brazil"
+    },
+    {
+      "i": "Chile",
+      "e": "Brazil"
+    },
+    {
+      "i": "Colombia",
+      "e": "Brazil"
+    },
+    {
+      "i": "Costa Rica",
+      "e": "Brazil"
+    },
+    {
+      "i": "Denmark",
+      "e": "Brazil"
+    },
+    {
+      "i": "Ecuador",
+      "e": "Brazil"
+    },
+    {
+      "i": "Finland",
+      "e": "Brazil"
+    },
+    {
+      "i": "France",
+      "e": "Brazil"
+    },
+    {
+      "i": "Germany",
+      "e": "Brazil"
+    },
+    {
+      "i": "Greece",
+      "e": "Brazil"
+    },
+    {
+      "i": "Guatemala",
+      "e": "Brazil"
+    },
+    {
+      "i": "Honduras",
+      "e": "Brazil"
+    },
+    {
+      "i": "Hong Kong",
+      "e": "Brazil"
+    },
+    {
+      "i": "Iceland",
+      "e": "Brazil"
+    },
+    {
+      "i": "Italy",
+      "e": "Brazil"
+    },
+    {
+      "i": "Jamaica",
+      "e": "Brazil"
+    },
+    {
+      "i": "Jordan",
+      "e": "Brazil"
+    },
+    {
+      "i": "Lebanon",
+      "e": "Brazil"
+    },
+    {
+      "i": "Malaysia",
+      "e": "Brazil"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Brazil"
+    },
+    {
+      "i": "Nicaragua",
+      "e": "Brazil"
+    },
+    {
+      "i": "Norway",
+      "e": "Brazil"
+    },
+    {
+      "i": "Pakistan",
+      "e": "Brazil"
+    },
+    {
+      "i": "Panama",
+      "e": "Brazil"
+    },
+    {
+      "i": "Paraguay",
+      "e": "Brazil"
+    },
+    {
+      "i": "Peru",
+      "e": "Brazil"
+    },
+    {
+      "i": "Portugal",
+      "e": "Brazil"
+    },
+    {
+      "i": "Qatar",
+      "e": "Brazil"
+    },
+    {
+      "i": "Saudi Arabia",
+      "e": "Brazil"
+    },
+    {
+      "i": "South Africa",
+      "e": "Brazil"
+    },
+    {
+      "i": "Spain",
+      "e": "Brazil"
+    },
+    {
+      "i": "Sweden",
+      "e": "Brazil"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Brazil"
+    },
+    {
+      "i": "Thailand",
+      "e": "Brazil"
+    },
+    {
+      "i": "Trinidad and Tobago",
+      "e": "Brazil"
+    },
+    {
+      "i": "Turkey",
+      "e": "Brazil"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "Brazil"
+    },
+    {
+      "i": "United States",
+      "e": "Brazil"
+    },
+    {
+      "i": "Unspecified Country",
+      "e": "Brazil"
+    },
+    {
+      "i": "Uruguay",
+      "e": "Brazil"
+    },
+    {
+      "i": "Venezuela, Bolivarian Republic of",
+      "e": "Brazil"
+    },
+    {
+      "i": "Argentina",
+      "e": "Canada"
+    },
+    {
+      "i": "Australia",
+      "e": "Canada"
+    },
+    {
+      "i": "Austria",
+      "e": "Canada"
+    },
+    {
+      "i": "Belgium",
+      "e": "Canada"
+    },
+    {
+      "i": "Bulgaria",
+      "e": "Canada"
+    },
+    {
+      "i": "Chile",
+      "e": "Canada"
+    },
+    {
+      "i": "Denmark",
+      "e": "Canada"
+    },
+    {
+      "i": "Finland",
+      "e": "Canada"
+    },
+    {
+      "i": "France",
+      "e": "Canada"
+    },
+    {
+      "i": "Germany",
+      "e": "Canada"
+    },
+    {
+      "i": "Greenland",
+      "e": "Canada"
+    },
+    {
+      "i": "Ireland",
+      "e": "Canada"
+    },
+    {
+      "i": "Italy",
+      "e": "Canada"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Canada"
+    },
+    {
+      "i": "Nicaragua",
+      "e": "Canada"
+    },
+    {
+      "i": "Norway",
+      "e": "Canada"
+    },
+    {
+      "i": "Poland",
+      "e": "Canada"
+    },
+    {
+      "i": "Spain",
+      "e": "Canada"
+    },
+    {
+      "i": "Sweden",
+      "e": "Canada"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Canada"
+    },
+    {
+      "i": "United States",
+      "e": "Canada"
+    },
+    {
+      "i": "Unspecified Country",
+      "e": "Canada"
+    },
+    {
+      "i": "Zambia",
+      "e": "Canada"
+    },
+    {
+      "i": "Argentina",
+      "e": "China"
+    },
+    {
+      "i": "Australia",
+      "e": "China"
+    },
+    {
+      "i": "Austria",
+      "e": "China"
+    },
+    {
+      "i": "Burkina Faso",
+      "e": "China"
+    },
+    {
+      "i": "Canada",
+      "e": "China"
+    },
+    {
+      "i": "Chile",
+      "e": "China"
+    },
+    {
+      "i": "Djibouti",
+      "e": "China"
+    },
+    {
+      "i": "Finland",
+      "e": "China"
+    },
+    {
+      "i": "France",
+      "e": "China"
+    },
+    {
+      "i": "Germany",
+      "e": "China"
+    },
+    {
+      "i": "Indonesia",
+      "e": "China"
+    },
+    {
+      "i": "New Zealand",
+      "e": "China"
+    },
+    {
+      "i": "Pakistan",
+      "e": "China"
+    },
+    {
+      "i": "Serbia",
+      "e": "China"
+    },
+    {
+      "i": "Spain",
+      "e": "China"
+    },
+    {
+      "i": "Suriname",
+      "e": "China"
+    },
+    {
+      "i": "Sweden",
+      "e": "China"
+    },
+    {
+      "i": "Switzerland",
+      "e": "China"
+    },
+    {
+      "i": "Thailand",
+      "e": "China"
+    },
+    {
+      "i": "United Arab Emirates",
+      "e": "China"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "China"
+    },
+    {
+      "i": "United States",
+      "e": "China"
+    },
+    {
+      "i": "Uruguay",
+      "e": "China"
+    },
+    {
+      "i": "Peru",
+      "e": "Colombia"
+    },
+    {
+      "i": "Slovenia",
+      "e": "Croatia"
+    },
+    {
+      "i": "Greece",
+      "e": "Cyprus"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "Cyprus"
+    },
+    {
+      "i": "Australia",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Bolivia, Plurinational State of",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Canada",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Chile",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Denmark",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Finland",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Germany",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Iceland",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Ireland",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Netherlands",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Portugal",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Spain",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Sweden",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Thailand",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "United States",
+      "e": "Czechoslovakia"
+    },
+    {
+      "i": "Australia",
+      "e": "Denmark"
+    },
+    {
+      "i": "Belgium",
+      "e": "Denmark"
+    },
+    {
+      "i": "Canada",
+      "e": "Denmark"
+    },
+    {
+      "i": "Faroe Islands",
+      "e": "Denmark"
+    },
+    {
+      "i": "Finland",
+      "e": "Denmark"
+    },
+    {
+      "i": "France",
+      "e": "Denmark"
+    },
+    {
+      "i": "Germany",
+      "e": "Denmark"
+    },
+    {
+      "i": "Greenland",
+      "e": "Denmark"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Denmark"
+    },
+    {
+      "i": "Norway",
+      "e": "Denmark"
+    },
+    {
+      "i": "Spain",
+      "e": "Denmark"
+    },
+    {
+      "i": "Sweden",
+      "e": "Denmark"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Denmark"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "Denmark"
+    },
+    {
+      "i": "United States",
+      "e": "Denmark"
+    },
+    {
+      "i": "Sweden",
+      "e": "Egypt"
+    },
+    {
+      "i": "United States",
+      "e": "Egypt"
+    },
+    {
+      "i": "Australia",
+      "e": "Finland"
+    },
+    {
+      "i": "Austria",
+      "e": "Finland"
+    },
+    {
+      "i": "Belgium",
+      "e": "Finland"
+    },
+    {
+      "i": "Bulgaria",
+      "e": "Finland"
+    },
+    {
+      "i": "Canada",
+      "e": "Finland"
+    },
+    {
+      "i": "Denmark",
+      "e": "Finland"
+    },
+    {
+      "i": "Egypt",
+      "e": "Finland"
+    },
+    {
+      "i": "France",
+      "e": "Finland"
+    },
+    {
+      "i": "Germany",
+      "e": "Finland"
+    },
+    {
+      "i": "Hungary",
+      "e": "Finland"
+    },
+    {
+      "i": "Iceland",
+      "e": "Finland"
+    },
+    {
+      "i": "Italy",
+      "e": "Finland"
+    },
+    {
+      "i": "Japan",
+      "e": "Finland"
+    },
+    {
+      "i": "Latvia",
+      "e": "Finland"
+    },
+    {
+      "i": "Mexico",
+      "e": "Finland"
+    },
+    {
+      "i": "Netherlands",
+      "e": "Finland"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Finland"
+    },
+    {
+      "i": "Norway",
+      "e": "Finland"
+    },
+    {
+      "i": "Oceania",
+      "e": "Finland"
+    },
+    {
+      "i": "Poland",
+      "e": "Finland"
+    },
+    {
+      "i": "Portugal",
+      "e": "Finland"
+    },
+    {
+      "i": "Russian Federation",
+      "e": "Finland"
+    },
+    {
+      "i": "South Africa",
+      "e": "Finland"
+    },
+    {
+      "i": "Spain",
+      "e": "Finland"
+    },
+    {
+      "i": "Sweden",
+      "e": "Finland"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Finland"
+    },
+    {
+      "i": "Thailand",
+      "e": "Finland"
+    },
+    {
+      "i": "United Arab Emirates",
+      "e": "Finland"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "Finland"
+    },
+    {
+      "i": "United States",
+      "e": "Finland"
+    },
+    {
+      "i": "Canada",
+      "e": "France"
+    },
+    {
+      "i": "Finland",
+      "e": "France"
+    },
+    {
+      "i": "Germany",
+      "e": "France"
+    },
+    {
+      "i": "Iceland",
+      "e": "France"
+    },
+    {
+      "i": "Korea, Republic of",
+      "e": "France"
+    },
+    {
+      "i": "Netherlands",
+      "e": "France"
+    },
+    {
+      "i": "New Zealand",
+      "e": "France"
+    },
+    {
+      "i": "Portugal",
+      "e": "France"
+    },
+    {
+      "i": "Spain",
+      "e": "France"
+    },
+    {
+      "i": "Sweden",
+      "e": "France"
+    },
+    {
+      "i": "Switzerland",
+      "e": "France"
+    },
+    {
+      "i": "Tunisia",
+      "e": "France"
+    },
+    {
+      "i": "United States",
+      "e": "France"
+    },
+    {
+      "i": "Albania",
+      "e": "Germany"
+    },
+    {
+      "i": "Algeria",
+      "e": "Germany"
+    },
+    {
+      "i": "Andorra",
+      "e": "Germany"
+    },
+    {
+      "i": "Argentina",
+      "e": "Germany"
+    },
+    {
+      "i": "Australia",
+      "e": "Germany"
+    },
+    {
+      "i": "Austria",
+      "e": "Germany"
+    },
+    {
+      "i": "Bangladesh",
+      "e": "Germany"
+    },
+    {
+      "i": "Belgium",
+      "e": "Germany"
+    },
+    {
+      "i": "Benin",
+      "e": "Germany"
+    },
+    {
+      "i": "Brazil",
+      "e": "Germany"
+    },
+    {
+      "i": "Cameroon",
+      "e": "Germany"
+    },
+    {
+      "i": "Canada",
+      "e": "Germany"
+    },
+    {
+      "i": "Chile",
+      "e": "Germany"
+    },
+    {
+      "i": "China",
+      "e": "Germany"
+    },
+    {
+      "i": "Czechoslovakia",
+      "e": "Germany"
+    },
+    {
+      "i": "Denmark",
+      "e": "Germany"
+    },
+    {
+      "i": "Ecuador",
+      "e": "Germany"
+    },
+    {
+      "i": "Egypt",
+      "e": "Germany"
+    },
+    {
+      "i": "Estonia",
+      "e": "Germany"
+    },
+    {
+      "i": "Finland",
+      "e": "Germany"
+    },
+    {
+      "i": "France",
+      "e": "Germany"
+    },
+    {
+      "i": "Greece",
+      "e": "Germany"
+    },
+    {
+      "i": "Greenland",
+      "e": "Germany"
+    },
+    {
+      "i": "Hong Kong",
+      "e": "Germany"
+    },
+    {
+      "i": "Hungary",
+      "e": "Germany"
+    },
+    {
+      "i": "Iceland",
+      "e": "Germany"
+    },
+    {
+      "i": "India",
+      "e": "Germany"
+    },
+    {
+      "i": "Indonesia",
+      "e": "Germany"
+    },
+    {
+      "i": "Ireland",
+      "e": "Germany"
+    },
+    {
+      "i": "Israel",
+      "e": "Germany"
+    },
+    {
+      "i": "Italy",
+      "e": "Germany"
+    },
+    {
+      "i": "Japan",
+      "e": "Germany"
+    },
+    {
+      "i": "Korea, Democratic People's Republic of",
+      "e": "Germany"
+    },
+    {
+      "i": "Korea, Republic of",
+      "e": "Germany"
+    },
+    {
+      "i": "Latvia",
+      "e": "Germany"
+    },
+    {
+      "i": "Lithuania",
+      "e": "Germany"
+    },
+    {
+      "i": "Malawi",
+      "e": "Germany"
+    },
+    {
+      "i": "Malaysia",
+      "e": "Germany"
+    },
+    {
+      "i": "Mexico",
+      "e": "Germany"
+    },
+    {
+      "i": "Mongolia",
+      "e": "Germany"
+    },
+    {
+      "i": "Morocco",
+      "e": "Germany"
+    },
+    {
+      "i": "Netherlands",
+      "e": "Germany"
+    },
+    {
+      "i": "Netherlands Antilles",
+      "e": "Germany"
+    },
+    {
+      "i": "New Caledonia",
+      "e": "Germany"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Germany"
+    },
+    {
+      "i": "Norway",
+      "e": "Germany"
+    },
+    {
+      "i": "Oman",
+      "e": "Germany"
+    },
+    {
+      "i": "Pakistan",
+      "e": "Germany"
+    },
+    {
+      "i": "Panama",
+      "e": "Germany"
+    },
+    {
+      "i": "Poland",
+      "e": "Germany"
+    },
+    {
+      "i": "Portugal",
+      "e": "Germany"
+    },
+    {
+      "i": "Qatar",
+      "e": "Germany"
+    },
+    {
+      "i": "Romania",
+      "e": "Germany"
+    },
+    {
+      "i": "Russian Federation",
+      "e": "Germany"
+    },
+    {
+      "i": "Saudi Arabia",
+      "e": "Germany"
+    },
+    {
+      "i": "Serbia",
+      "e": "Germany"
+    },
+    {
+      "i": "Singapore",
+      "e": "Germany"
+    },
+    {
+      "i": "South Africa",
+      "e": "Germany"
+    },
+    {
+      "i": "Spain",
+      "e": "Germany"
+    },
+    {
+      "i": "Sri Lanka",
+      "e": "Germany"
+    },
+    {
+      "i": "Sweden",
+      "e": "Germany"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Germany"
+    },
+    {
+      "i": "Taiwan",
+      "e": "Germany"
+    },
+    {
+      "i": "Tanzania, United Republic of",
+      "e": "Germany"
+    },
+    {
+      "i": "Thailand",
+      "e": "Germany"
+    },
+    {
+      "i": "Trinidad and Tobago",
+      "e": "Germany"
+    },
+    {
+      "i": "Tunisia",
+      "e": "Germany"
+    },
+    {
+      "i": "Turkey",
+      "e": "Germany"
+    },
+    {
+      "i": "United Arab Emirates",
+      "e": "Germany"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "Germany"
+    },
+    {
+      "i": "United States",
+      "e": "Germany"
+    },
+    {
+      "i": "Viet Nam",
+      "e": "Germany"
+    },
+    {
+      "i": "Yemen",
+      "e": "Germany"
+    },
+    {
+      "i": "Zambia",
+      "e": "Germany"
+    },
+    {
+      "i": "Zimbabwe",
+      "e": "Germany"
+    },
+    {
+      "i": "Singapore",
+      "e": "Greece"
+    },
+    {
+      "i": "Sweden",
+      "e": "Greenland"
+    },
+    {
+      "i": "China",
+      "e": "Hong Kong"
+    },
+    {
+      "i": "Indonesia",
+      "e": "Hong Kong"
+    },
+    {
+      "i": "Finland",
+      "e": "Hungary"
+    },
+    {
+      "i": "Spain",
+      "e": "Hungary"
+    },
+    {
+      "i": "Sweden",
+      "e": "Hungary"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Hungary"
+    },
+    {
+      "i": "United States",
+      "e": "Hungary"
+    },
+    {
+      "i": "Australia",
+      "e": "India"
+    },
+    {
+      "i": "Germany",
+      "e": "India"
+    },
+    {
+      "i": "Switzerland",
+      "e": "India"
+    },
+    {
+      "i": "Spain",
+      "e": "Indonesia"
+    },
+    {
+      "i": "Germany",
+      "e": "Ireland"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "Ireland"
+    },
+    {
+      "i": "Canada",
+      "e": "Israel"
+    },
+    {
+      "i": "Finland",
+      "e": "Israel"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Israel"
+    },
+    {
+      "i": "United States",
+      "e": "Israel"
+    },
+    {
+      "i": "Australia",
+      "e": "Italy"
+    },
+    {
+      "i": "Bolivia, Plurinational State of",
+      "e": "Italy"
+    },
+    {
+      "i": "Canada",
+      "e": "Italy"
+    },
+    {
+      "i": "Cyprus",
+      "e": "Italy"
+    },
+    {
+      "i": "Finland",
+      "e": "Italy"
+    },
+    {
+      "i": "Germany",
+      "e": "Italy"
+    },
+    {
+      "i": "India",
+      "e": "Italy"
+    },
+    {
+      "i": "Ireland",
+      "e": "Italy"
+    },
+    {
+      "i": "Japan",
+      "e": "Italy"
+    },
+    {
+      "i": "Korea, Republic of",
+      "e": "Italy"
+    },
+    {
+      "i": "Malaysia",
+      "e": "Italy"
+    },
+    {
+      "i": "Netherlands",
+      "e": "Italy"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Italy"
+    },
+    {
+      "i": "Peru",
+      "e": "Italy"
+    },
+    {
+      "i": "Portugal",
+      "e": "Italy"
+    },
+    {
+      "i": "Spain",
+      "e": "Italy"
+    },
+    {
+      "i": "Sweden",
+      "e": "Italy"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Italy"
+    },
+    {
+      "i": "Thailand",
+      "e": "Italy"
+    },
+    {
+      "i": "United States",
+      "e": "Italy"
+    },
+    {
+      "i": "Australia",
+      "e": "Japan"
+    },
+    {
+      "i": "Belgium",
+      "e": "Japan"
+    },
+    {
+      "i": "Canada",
+      "e": "Japan"
+    },
+    {
+      "i": "China",
+      "e": "Japan"
+    },
+    {
+      "i": "Finland",
+      "e": "Japan"
+    },
+    {
+      "i": "France",
+      "e": "Japan"
+    },
+    {
+      "i": "Germany",
+      "e": "Japan"
+    },
+    {
+      "i": "Italy",
+      "e": "Japan"
+    },
+    {
+      "i": "Korea, Republic of",
+      "e": "Japan"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Japan"
+    },
+    {
+      "i": "Norway",
+      "e": "Japan"
+    },
+    {
+      "i": "Portugal",
+      "e": "Japan"
+    },
+    {
+      "i": "Spain",
+      "e": "Japan"
+    },
+    {
+      "i": "Sweden",
+      "e": "Japan"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Japan"
+    },
+    {
+      "i": "Turkey",
+      "e": "Japan"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "Japan"
+    },
+    {
+      "i": "United States",
+      "e": "Japan"
+    },
+    {
+      "i": "Colombia",
+      "e": "Korea, Republic of"
+    },
+    {
+      "i": "Serbia",
+      "e": "Korea, Republic of"
+    },
+    {
+      "i": "Unspecified Country",
+      "e": "Korea, Republic of"
+    },
+    {
+      "i": "Yemen",
+      "e": "Korea, Republic of"
+    },
+    {
+      "i": "Singapore",
+      "e": "Malaysia"
+    },
+    {
+      "i": "Canada",
+      "e": "Mexico"
+    },
+    {
+      "i": "Belgium",
+      "e": "Netherlands"
+    },
+    {
+      "i": "Denmark",
+      "e": "Netherlands"
+    },
+    {
+      "i": "France",
+      "e": "Netherlands"
+    },
+    {
+      "i": "Germany",
+      "e": "Netherlands"
+    },
+    {
+      "i": "Nigeria",
+      "e": "Netherlands"
+    },
+    {
+      "i": "Spain",
+      "e": "Netherlands"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Netherlands"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "Netherlands"
+    },
+    {
+      "i": "France",
+      "e": "New Zealand"
+    },
+    {
+      "i": "Germany",
+      "e": "New Zealand"
+    },
+    {
+      "i": "New Caledonia",
+      "e": "New Zealand"
+    },
+    {
+      "i": "Samoa",
+      "e": "New Zealand"
+    },
+    {
+      "i": "United States",
+      "e": "New Zealand"
+    },
+    {
+      "i": "Unspecified Country",
+      "e": "New Zealand"
+    },
+    {
+      "i": "Denmark",
+      "e": "Norway"
+    },
+    {
+      "i": "Germany",
+      "e": "Norway"
+    },
+    {
+      "i": "Netherlands",
+      "e": "Norway"
+    },
+    {
+      "i": "Spain",
+      "e": "Norway"
+    },
+    {
+      "i": "Sweden",
+      "e": "Norway"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Norway"
+    },
+    {
+      "i": "United Arab Emirates",
+      "e": "Pakistan"
+    },
+    {
+      "i": "Spain",
+      "e": "Peru"
+    },
+    {
+      "i": "Canada",
+      "e": "Philippines"
+    },
+    {
+      "i": "Finland",
+      "e": "Philippines"
+    },
+    {
+      "i": "Germany",
+      "e": "Philippines"
+    },
+    {
+      "i": "Ireland",
+      "e": "Philippines"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Philippines"
+    },
+    {
+      "i": "United States",
+      "e": "Philippines"
+    },
+    {
+      "i": "Germany",
+      "e": "Poland"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Poland"
+    },
+    {
+      "i": "Angola",
+      "e": "Portugal"
+    },
+    {
+      "i": "Belgium",
+      "e": "Portugal"
+    },
+    {
+      "i": "Canada",
+      "e": "Portugal"
+    },
+    {
+      "i": "Finland",
+      "e": "Portugal"
+    },
+    {
+      "i": "France",
+      "e": "Portugal"
+    },
+    {
+      "i": "Germany",
+      "e": "Portugal"
+    },
+    {
+      "i": "Guinea-Bissau",
+      "e": "Portugal"
+    },
+    {
+      "i": "Italy",
+      "e": "Portugal"
+    },
+    {
+      "i": "Japan",
+      "e": "Portugal"
+    },
+    {
+      "i": "Norway",
+      "e": "Portugal"
+    },
+    {
+      "i": "Spain",
+      "e": "Portugal"
+    },
+    {
+      "i": "Sweden",
+      "e": "Portugal"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Portugal"
+    },
+    {
+      "i": "United States",
+      "e": "Portugal"
+    },
+    {
+      "i": "Germany",
+      "e": "Romania"
+    },
+    {
+      "i": "Australia",
+      "e": "Russian Federation"
+    },
+    {
+      "i": "Canada",
+      "e": "Russian Federation"
+    },
+    {
+      "i": "Cyprus",
+      "e": "Russian Federation"
+    },
+    {
+      "i": "Finland",
+      "e": "Russian Federation"
+    },
+    {
+      "i": "Germany",
+      "e": "Russian Federation"
+    },
+    {
+      "i": "Sweden",
+      "e": "Russian Federation"
+    },
+    {
+      "i": "United States",
+      "e": "Russian Federation"
+    },
+    {
+      "i": "Austria",
+      "e": "Serbia"
+    },
+    {
+      "i": "Canada",
+      "e": "Serbia"
+    },
+    {
+      "i": "France",
+      "e": "Serbia"
+    },
+    {
+      "i": "Germany",
+      "e": "Serbia"
+    },
+    {
+      "i": "Spain",
+      "e": "Serbia"
+    },
+    {
+      "i": "Sweden",
+      "e": "Serbia"
+    },
+    {
+      "i": "Italy",
+      "e": "Singapore"
+    },
+    {
+      "i": "Malaysia",
+      "e": "Singapore"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Singapore"
+    },
+    {
+      "i": "Unspecified Country",
+      "e": "Singapore"
+    },
+    {
+      "i": "Germany",
+      "e": "Slovenia"
+    },
+    {
+      "i": "Germany",
+      "e": "South Africa"
+    },
+    {
+      "i": "United States",
+      "e": "South Africa"
+    },
+    {
+      "i": "Andorra",
+      "e": "Spain"
+    },
+    {
+      "i": "Angola",
+      "e": "Spain"
+    },
+    {
+      "i": "Argentina",
+      "e": "Spain"
+    },
+    {
+      "i": "Belgium",
+      "e": "Spain"
+    },
+    {
+      "i": "Bolivia, Plurinational State of",
+      "e": "Spain"
+    },
+    {
+      "i": "Canada",
+      "e": "Spain"
+    },
+    {
+      "i": "Chile",
+      "e": "Spain"
+    },
+    {
+      "i": "Finland",
+      "e": "Spain"
+    },
+    {
+      "i": "France",
+      "e": "Spain"
+    },
+    {
+      "i": "Germany",
+      "e": "Spain"
+    },
+    {
+      "i": "Italy",
+      "e": "Spain"
+    },
+    {
+      "i": "Netherlands",
+      "e": "Spain"
+    },
+    {
+      "i": "South Africa",
+      "e": "Spain"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Spain"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "Spain"
+    },
+    {
+      "i": "United States",
+      "e": "Spain"
+    },
+    {
+      "i": "Australia",
+      "e": "Sri Lanka"
+    },
+    {
+      "i": "Malaysia",
+      "e": "Sudan"
+    },
+    {
+      "i": "Australia",
+      "e": "Sweden"
+    },
+    {
+      "i": "Austria",
+      "e": "Sweden"
+    },
+    {
+      "i": "Belgium",
+      "e": "Sweden"
+    },
+    {
+      "i": "Canada",
+      "e": "Sweden"
+    },
+    {
+      "i": "Denmark",
+      "e": "Sweden"
+    },
+    {
+      "i": "Estonia",
+      "e": "Sweden"
+    },
+    {
+      "i": "Finland",
+      "e": "Sweden"
+    },
+    {
+      "i": "France",
+      "e": "Sweden"
+    },
+    {
+      "i": "Germany",
+      "e": "Sweden"
+    },
+    {
+      "i": "Hungary",
+      "e": "Sweden"
+    },
+    {
+      "i": "Italy",
+      "e": "Sweden"
+    },
+    {
+      "i": "Japan",
+      "e": "Sweden"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Sweden"
+    },
+    {
+      "i": "Norway",
+      "e": "Sweden"
+    },
+    {
+      "i": "Portugal",
+      "e": "Sweden"
+    },
+    {
+      "i": "Spain",
+      "e": "Sweden"
+    },
+    {
+      "i": "Switzerland",
+      "e": "Sweden"
+    },
+    {
+      "i": "Tanzania, United Republic of",
+      "e": "Sweden"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "Sweden"
+    },
+    {
+      "i": "United States",
+      "e": "Sweden"
+    },
+    {
+      "i": "Unspecified Country",
+      "e": "Sweden"
+    },
+    {
+      "i": "Argentina",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Australia",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Austria",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Bahrain",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Belgium",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Canada",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Chile",
+      "e": "Switzerland"
+    },
+    {
+      "i": "China",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Czechoslovakia",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Finland",
+      "e": "Switzerland"
+    },
+    {
+      "i": "France",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Germany",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Greece",
+      "e": "Switzerland"
+    },
+    {
+      "i": "India",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Italy",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Japan",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Kenya",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Korea, Republic of",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Kuwait",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Malaysia",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Netherlands",
+      "e": "Switzerland"
+    },
+    {
+      "i": "New Zealand",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Pakistan",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Portugal",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Romania",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Saudi Arabia",
+      "e": "Switzerland"
+    },
+    {
+      "i": "South Africa",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Spain",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Sweden",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Tanzania, United Republic of",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Turkey",
+      "e": "Switzerland"
+    },
+    {
+      "i": "United Arab Emirates",
+      "e": "Switzerland"
+    },
+    {
+      "i": "United Kingdom",
+      "e": "Switzerland"
+    },
+    {
+      "i": "United States",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Unspecified Country",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Zambia",
+      "e": "Switzerland"
+    },
+    {
+      "i": "Spain",
+      "e": "Taiwan"
+    },
+    {
+      "i": "Chile",
+      "e": "Turkey"
+    },
+    {
+      "i": "United States",
+      "e": "Turkey"
+    },
+    {
+      "i": "Germany",
+      "e": "United Arab Emirates"
+    },
+    {
+      "i": "Australia",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Canada",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Denmark",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Finland",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Germany",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Iceland",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Ireland",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Japan",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Korea, Republic of",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Netherlands",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "New Zealand",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Portugal",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Spain",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Sweden",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Switzerland",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "United Arab Emirates",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "United States",
+      "e": "United Kingdom"
+    },
+    {
+      "i": "Andorra",
+      "e": "United States"
+    },
+    {
+      "i": "Argentina",
+      "e": "United States"
+    },
+    {
+      "i": "Australia",
+      "e": "United States"
+    },
+    {
+      "i": "Austria",
+      "e": "United States"
+    },
+    {
+      "i": "Belgium",
+      "e": "United States"
+    },
+    {
+      "i": "Bolivia, Plurinational State of",
+      "e": "United States"
+    },
+    {
+      "i": "Brazil",
+      "e": "United States"
+    },
+    {
+      "i": "Canada",
+      "e": "United States"
+    },
+    {
+      "i": "Chile",
+      "e": "United States"
+    },
+    {
+      "i": "China",
+      "e": "United States"
+    },
+    {
+      "i": "Costa Rica",
+      "e": "United States"
+    },
+    {
+      "i": "Denmark",
+      "e": "United States"
+    },
+    {
+      "i": "Ecuador",
+      "e": "United States"
+    },
+    {
+      "i": "Finland",
+      "e": "United States"
+    },
+    {
+      "i": "France",
+      "e": "United States"
+    },
+    {
+      "i": "Germany",
+      "e": "United States"
+    },
+    {
+      "i": "Greece",
+      "e": "United States"
+    },
+    {
+      "i": "Guatemala",
+      "e": "United States"
+    },
+    {
+      "i": "Hong Kong",
+      "e": "United States"
+    },
+    {
+      "i": "Iceland",
+      "e": "United States"
+    },
+    {
+      "i": "Indonesia",
+      "e": "United States"
+    },
+    {
+      "i": "Ireland",
+      "e": "United States"
+    },
+    {
+      "i": "Israel",
+      "e": "United States"
+    },
+    {
+      "i": "Italy",
+      "e": "United States"
+    },
+    {
+      "i": "Japan",
+      "e": "United States"
+    },
+    {
+      "i": "Korea, Republic of",
+      "e": "United States"
+    },
+    {
+      "i": "Kuwait",
+      "e": "United States"
+    },
+    {
+      "i": "Malaysia",
+      "e": "United States"
+    },
+    {
+      "i": "Mexico",
+      "wc": "930330",
+      "e": "United States",
+      "v": 105837
+    },
+    {
+      "i": "Netherlands",
+      "wc": "930330",
+      "e": "United States",
+      "v": 9518
+    },
+    {
+      "i": "New Caledonia",
+      "wc": "930330",
+      "e": "United States",
+      "v": 5881
+    },
+    {
+      "i": "New Zealand",
+      "wc": "930330",
+      "e": "United States",
+      "v": 657886
+    },
+    {
+      "i": "Norway",
+      "wc": "930330",
+      "e": "United States",
+      "v": 280295
+    },
+    {
+      "i": "Pakistan",
+      "wc": "930330",
+      "e": "United States",
+      "v": 291720
+    },
+    {
+      "i": "Panama",
+      "wc": "930330",
+      "e": "United States",
+      "v": 18623
+    },
+    {
+      "i": "Papua New Guinea",
+      "wc": "930330",
+      "e": "United States",
+      "v": 53298
+    },
+    {
+      "i": "Paraguay",
+      "wc": "930330",
+      "e": "United States",
+      "v": 27720
+    },
+    {
+      "i": "Peru",
+      "wc": "930330",
+      "e": "United States",
+      "v": 35149
+    },
+    {
+      "i": "Portugal",
+      "wc": "930330",
+      "e": "United States",
+      "v": 50093
+    },
+    {
+      "i": "Saudi Arabia",
+      "wc": "930330",
+      "e": "United States",
+      "v": 934
+    },
+    {
+      "i": "Serbia",
+      "wc": "930330",
+      "e": "United States",
+      "v": 10000
+    },
+    {
+      "i": "Singapore",
+      "wc": "930330",
+      "e": "United States",
+      "v": 32982
+    },
+    {
+      "i": "South Africa",
+      "wc": "930330",
+      "e": "United States",
+      "v": 91740
+    },
+    {
+      "i": "Spain",
+      "wc": "930330",
+      "e": "United States",
+      "v": 390864
+    },
+    {
+      "i": "Sweden",
+      "wc": "930330",
+      "e": "United States",
+      "v": 980468
+    },
+    {
+      "i": "Switzerland",
+      "wc": "930330",
+      "e": "United States",
+      "v": 785148
+    },
+    {
+      "i": "Taiwan",
+      "wc": "930330",
+      "e": "United States",
+      "v": 8000
+    },
+    {
+      "i": "Thailand",
+      "wc": "930330",
+      "e": "United States",
+      "v": 137180
+    },
+    {
+      "i": "Turkey",
+      "wc": "930330",
+      "e": "United States",
+      "v": 31649
+    },
+    {
+      "i": "United Kingdom",
+      "wc": "930330",
+      "e": "United States",
+      "v": 344895
+    },
+    {
+      "i": "Uruguay",
+      "wc": "930330",
+      "e": "United States",
+      "v": 84270
+    },
+    {
+      "i": "Venezuela, Bolivarian Republic of",
+      "wc": "930330",
+      "e": "United States",
+      "v": 398906
+    },
+    {
+      "i": "Algeria",
+      "wc": "930330",
+      "e": "Unspecified Country",
+      "v": 367
+    },
+    {
+      "i": "Australia",
+      "wc": "930330",
+      "e": "Unspecified Country",
+      "v": 1308329
+    },
+    {
+      "i": "Canada",
+      "wc": "930330",
+      "e": "Unspecified Country",
+      "v": 13873
+    },
+    {
+      "i": "Croatia",
+      "wc": "930330",
+      "e": "Unspecified Country",
+      "v": 43
+    },
+    {
+      "i": "Cyprus",
+      "wc": "930330",
+      "e": "Unspecified Country",
+      "v": 849
+    },
+    {
+      "i": "Finland",
+      "wc": "930330",
+      "e": "Unspecified Country",
+      "v": 527
+    },
+    {
+      "i": "Greece",
+      "wc": "930330",
+      "e": "Unspecified Country",
+      "v": 0
+    },
+    {
+      "i": "Iceland",
+      "wc": "930330",
+      "e": "Unspecified Country",
+      "v": 678
+    },
+    {
+      "i": "Indonesia",
+      "wc": "930330",
+      "e": "Unspecified Country",
+      "v": 0
+    },
+    {
+      "i": "Korea, Republic of",
+      "wc": "930330",
+      "e": "Unspecified Country",
+      "v": 2225
+    },
+    {
+      "i": "Madagascar",
+      "wc": "930330",
+      "e": "Unspecified Country",
+      "v": 453
+    },
+    {
+      "i": "Malaysia",
+      "wc": "930330",
+      "e": "Unspecified Country",
+      "v": 0
+    },
+    {
+      "i": "Sweden",
+      "wc": "930330",
+      "e": "Unspecified Country",
+      "v": 344
+    },
+    {
+      "i": "Thailand",
+      "wc": "930330",
+      "e": "Unspecified Country",
+      "v": 0
+    },
+    {
+      "i": "Chile",
+      "wc": "ammo",
+      "e": "Argentina",
+      "v": 7749
+    },
+    {
+      "i": "Paraguay",
+      "wc": "ammo",
+      "e": "Argentina",
+      "v": 55626
+    },
+    {
+      "i": "Bangladesh",
+      "wc": "ammo",
+      "e": "Australia",
+      "v": 123358
+    },
+    {
+      "i": "Fiji",
+      "wc": "ammo",
+      "e": "Australia",
+      "v": 24148
+    },
+    {
+      "i": "Hong Kong",
+      "wc": "ammo",
+      "e": "Australia",
+      "v": 1100
+    },
+    {
+      "i": "India",
+      "wc": "ammo",
+      "e": "Australia",
+      "v": 1262
+    },
+    {
+      "i": "Japan",
+      "wc": "ammo",
+      "e": "Australia",
+      "v": 473704
+    },
+    {
+      "i": "Kuwait",
+      "wc": "ammo",
+      "e": "Australia",
+      "v": 5226
+    },
+    {
+      "i": "New Caledonia",
+      "wc": "ammo",
+      "e": "Australia",
+      "v": 70713
+    },
+    {
+      "i": "New Zealand",
+      "wc": "ammo",
+      "e": "Australia",
+      "v": 1203070
+    },
+    {
+      "i": "Papua New Guinea",
+      "wc": "ammo",
+      "e": "Australia",
+      "v": 106053
+    },
+    {
+      "i": "Singapore",
+      "wc": "ammo",
+      "e": "Australia",
+      "v": 2567
+    },
+    {
+      "i": "Solomon Islands",
+      "wc": "ammo",
+      "e": "Australia",
+      "v": 13408
+    },
+    {
+      "i": "Thailand",
+      "wc": "ammo",
+      "e": "Australia",
+      "v": 79871
+    },
+    {
+      "i": "United Kingdom",
+      "wc": "ammo",
+      "e": "Australia",
+      "v": 425808
+    },
+    {
+      "i": "Unspecified Country",
+      "wc": "ammo",
+      "e": "Australia",
+      "v": 527
+    },
+    {
+      "i": "Vanuatu",
+      "wc": "ammo",
+      "e": "Australia",
+      "v": 19996
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "Austria",
+      "v": 1954000
+    },
+    {
+      "i": "India",
+      "wc": "ammo",
+      "e": "Austria",
+      "v": 10160
+    },
+    {
+      "i": "Cyprus",
+      "wc": "ammo",
+      "e": "Belgium",
+      "v": 4683
+    },
+    {
+      "i": "Denmark",
+      "wc": "ammo",
+      "e": "Belgium",
+      "v": 25662
+    },
+    {
+      "i": "Finland",
+      "wc": "ammo",
+      "e": "Belgium",
+      "v": 16819
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "Belgium",
+      "v": 3289000
+    },
+    {
+      "i": "Netherlands",
+      "wc": "ammo",
+      "e": "Belgium",
+      "v": 423661
+    },
+    {
+      "i": "Paraguay",
+      "wc": "ammo",
+      "e": "Belgium",
+      "v": 45576
+    },
+    {
+      "i": "Portugal",
+      "wc": "ammo",
+      "e": "Belgium",
+      "v": 667845
+    },
+    {
+      "i": "Saudi Arabia",
+      "wc": "ammo",
+      "e": "Belgium",
+      "v": 3781
+    },
+    {
+      "i": "Sweden",
+      "wc": "ammo",
+      "e": "Belgium",
+      "v": 1031
+    },
+    {
+      "i": "Switzerland",
+      "wc": "ammo",
+      "e": "Belgium",
+      "v": 487293
+    },
+    {
+      "i": "Anguilla",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 27270
+    },
+    {
+      "i": "Argentina",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 300460
+    },
+    {
+      "i": "Australia",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 15377
+    },
+    {
+      "i": "Austria",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 522806
+    },
+    {
+      "i": "Barbados",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 11225
+    },
+    {
+      "i": "Belgium",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 2994857
+    },
+    {
+      "i": "Bolivia, Plurinational State of",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 29995
+    },
+    {
+      "i": "Canada",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 144796
+    },
+    {
+      "i": "Chile",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 39820
+    },
+    {
+      "i": "Colombia",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 403267
+    },
+    {
+      "i": "Costa Rica",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 11246
+    },
+    {
+      "i": "Czechoslovakia",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 2550
+    },
+    {
+      "i": "Ecuador",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 7260
+    },
+    {
+      "i": "Finland",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 87729
+    },
+    {
+      "i": "France",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 8071
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 1206705
+    },
+    {
+      "i": "Guatemala",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 33675
+    },
+    {
+      "i": "Korea, Republic of",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 165856
+    },
+    {
+      "i": "Malaysia",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 508846
+    },
+    {
+      "i": "Netherlands",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 215763
+    },
+    {
+      "i": "New Zealand",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 1697683
+    },
+    {
+      "i": "Pakistan",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 313600
+    },
+    {
+      "i": "Panama",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 86449
+    },
+    {
+      "i": "Paraguay",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 587465
+    },
+    {
+      "i": "Peru",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 4173
+    },
+    {
+      "i": "Singapore",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 474885
+    },
+    {
+      "i": "South Africa",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 97744
+    },
+    {
+      "i": "Spain",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 526760
+    },
+    {
+      "i": "Trinidad and Tobago",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 11772
+    },
+    {
+      "i": "United Kingdom",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 307334
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 1746608
+    },
+    {
+      "i": "Uruguay",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 69826
+    },
+    {
+      "i": "Venezuela, Bolivarian Republic of",
+      "wc": "ammo",
+      "e": "Brazil",
+      "v": 133000
+    },
+    {
+      "i": "Denmark",
+      "wc": "ammo",
+      "e": "Canada",
+      "v": 3345484
+    },
+    {
+      "i": "Italy",
+      "wc": "ammo",
+      "e": "Canada",
+      "v": 31019
+    },
+    {
+      "i": "Saudi Arabia",
+      "wc": "ammo",
+      "e": "Canada",
+      "v": 106065
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "Canada",
+      "v": 1696799
+    },
+    {
+      "i": "Argentina",
+      "wc": "ammo",
+      "e": "Chile",
+      "v": 16479
+    },
+    {
+      "i": "Bolivia, Plurinational State of",
+      "wc": "ammo",
+      "e": "Chile",
+      "v": 16188
+    },
+    {
+      "i": "Australia",
+      "wc": "ammo",
+      "e": "China",
+      "v": 55827
+    },
+    {
+      "i": "Chile",
+      "wc": "ammo",
+      "e": "China",
+      "v": 35699
+    },
+    {
+      "i": "Djibouti",
+      "wc": "ammo",
+      "e": "China",
+      "v": 33149
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "China",
+      "v": 147802
+    },
+    {
+      "i": "Japan",
+      "wc": "ammo",
+      "e": "China",
+      "v": 36003
+    },
+    {
+      "i": "Korea, Republic of",
+      "wc": "ammo",
+      "e": "China",
+      "v": 83751
+    },
+    {
+      "i": "United Kingdom",
+      "wc": "ammo",
+      "e": "China",
+      "v": 123475
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "China",
+      "v": 19949109
+    },
+    {
+      "i": "Slovenia",
+      "wc": "ammo",
+      "e": "Croatia",
+      "v": 87633
+    },
+    {
+      "i": "Finland",
+      "wc": "ammo",
+      "e": "Cyprus",
+      "v": 797
+    },
+    {
+      "i": "Greece",
+      "wc": "ammo",
+      "e": "Cyprus",
+      "v": 665
+    },
+    {
+      "i": "Ireland",
+      "wc": "ammo",
+      "e": "Cyprus",
+      "v": 56107
+    },
+    {
+      "i": "Jordan",
+      "wc": "ammo",
+      "e": "Cyprus",
+      "v": 253906
+    },
+    {
+      "i": "Kuwait",
+      "wc": "ammo",
+      "e": "Cyprus",
+      "v": 770214
+    },
+    {
+      "i": "Lebanon",
+      "wc": "ammo",
+      "e": "Cyprus",
+      "v": 205581
+    },
+    {
+      "i": "Russian Federation",
+      "wc": "ammo",
+      "e": "Cyprus",
+      "v": 1330
+    },
+    {
+      "i": "United Kingdom",
+      "wc": "ammo",
+      "e": "Cyprus",
+      "v": 1015010
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "Cyprus",
+      "v": 756385
+    },
+    {
+      "i": "Unspecified Country",
+      "wc": "ammo",
+      "e": "Cyprus",
+      "v": 369
+    },
+    {
+      "i": "Australia",
+      "wc": "ammo",
+      "e": "Czechoslovakia",
+      "v": 73025
+    },
+    {
+      "i": "Canada",
+      "wc": "ammo",
+      "e": "Czechoslovakia",
+      "v": 110472
+    },
+    {
+      "i": "Cyprus",
+      "wc": "ammo",
+      "e": "Czechoslovakia",
+      "v": 30016
+    },
+    {
+      "i": "Denmark",
+      "wc": "ammo",
+      "e": "Czechoslovakia",
+      "v": 110865
+    },
+    {
+      "i": "Finland",
+      "wc": "ammo",
+      "e": "Czechoslovakia",
+      "v": 687304
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "Czechoslovakia",
+      "v": 3130000
+    },
+    {
+      "i": "Japan",
+      "wc": "ammo",
+      "e": "Czechoslovakia",
+      "v": 85562
+    },
+    {
+      "i": "Netherlands",
+      "wc": "ammo",
+      "e": "Czechoslovakia",
+      "v": 111872
+    },
+    {
+      "i": "New Zealand",
+      "wc": "ammo",
+      "e": "Czechoslovakia",
+      "v": 65105
+    },
+    {
+      "i": "Peru",
+      "wc": "ammo",
+      "e": "Czechoslovakia",
+      "v": 68753
+    },
+    {
+      "i": "Saudi Arabia",
+      "wc": "ammo",
+      "e": "Czechoslovakia",
+      "v": 7181
+    },
+    {
+      "i": "Spain",
+      "wc": "ammo",
+      "e": "Czechoslovakia",
+      "v": 241977
+    },
+    {
+      "i": "Sweden",
+      "wc": "ammo",
+      "e": "Czechoslovakia",
+      "v": 670330
+    },
+    {
+      "i": "Thailand",
+      "wc": "ammo",
+      "e": "Czechoslovakia",
+      "v": 84209
+    },
+    {
+      "i": "Turkey",
+      "wc": "ammo",
+      "e": "Czechoslovakia",
+      "v": 247064
+    },
+    {
+      "i": "Faroe Islands",
+      "wc": "ammo",
+      "e": "Denmark",
+      "v": 15429
+    },
+    {
+      "i": "Finland",
+      "wc": "ammo",
+      "e": "Denmark",
+      "v": 84305
+    },
+    {
+      "i": "Greenland",
+      "wc": "ammo",
+      "e": "Denmark",
+      "v": 553404
+    },
+    {
+      "i": "Hungary",
+      "wc": "ammo",
+      "e": "Denmark",
+      "v": 27570
+    },
+    {
+      "i": "Iceland",
+      "wc": "ammo",
+      "e": "Denmark",
+      "v": 48282
+    },
+    {
+      "i": "Japan",
+      "wc": "ammo",
+      "e": "Denmark",
+      "v": 554535
+    },
+    {
+      "i": "Norway",
+      "wc": "ammo",
+      "e": "Denmark",
+      "v": 212327
+    },
+    {
+      "i": "South Africa",
+      "wc": "ammo",
+      "e": "Denmark",
+      "v": 3657
+    },
+    {
+      "i": "Sweden",
+      "wc": "ammo",
+      "e": "Denmark",
+      "v": 399029
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "Denmark",
+      "v": 236108
+    },
+    {
+      "i": "Brazil",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 396217
+    },
+    {
+      "i": "Canada",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 31379
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 810026
+    },
+    {
+      "i": "Oman",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 10186
+    },
+    {
+      "i": "Russian Federation",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 85216
+    },
+    {
+      "i": "Spain",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 229835
+    },
+    {
+      "i": "Sweden",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 1386462
+    },
+    {
+      "i": "United Kingdom",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 267803
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 155531
+    },
+    {
+      "i": "Unspecified Country",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 0
+    },
+    {
+      "i": "Algeria",
+      "wc": "ammo",
+      "e": "France",
+      "v": 36893
+    },
+    {
+      "i": "Chile",
+      "wc": "ammo",
+      "e": "France",
+      "v": 154093
+    },
+    {
+      "i": "Cyprus",
+      "wc": "ammo",
+      "e": "France",
+      "v": 40635
+    },
+    {
+      "i": "Finland",
+      "wc": "ammo",
+      "e": "France",
+      "v": 264802
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "France",
+      "v": 395000
+    },
+    {
+      "i": "Iceland",
+      "wc": "ammo",
+      "e": "France",
+      "v": 4781
+    },
+    {
+      "i": "Ireland",
+      "wc": "ammo",
+      "e": "France",
+      "v": 2896
+    },
+    {
+      "i": "Japan",
+      "wc": "ammo",
+      "e": "France",
+      "v": 753294
+    },
+    {
+      "i": "Madagascar",
+      "wc": "ammo",
+      "e": "France",
+      "v": 1052
+    },
+    {
+      "i": "Netherlands",
+      "wc": "ammo",
+      "e": "France",
+      "v": 125820
+    },
+    {
+      "i": "Portugal",
+      "wc": "ammo",
+      "e": "France",
+      "v": 27910
+    },
+    {
+      "i": "Saudi Arabia",
+      "wc": "ammo",
+      "e": "France",
+      "v": 2837
+    },
+    {
+      "i": "Spain",
+      "wc": "ammo",
+      "e": "France",
+      "v": 844750
+    },
+    {
+      "i": "Saint Lucia",
+      "wc": "ammo",
+      "e": "France",
+      "v": 710
+    },
+    {
+      "i": "Switzerland",
+      "wc": "ammo",
+      "e": "France",
+      "v": 10118452
+    },
+    {
+      "i": "Tunisia",
+      "wc": "ammo",
+      "e": "France",
+      "v": 95391
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "France",
+      "v": 113066
+    },
+    {
+      "i": "Andorra",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 279000
+    },
+    {
+      "i": "Argentina",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 27000
+    },
+    {
+      "i": "Australia",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 83026
+    },
+    {
+      "i": "Austria",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 3510000
+    },
+    {
+      "i": "Bangladesh",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 39000
+    },
+    {
+      "i": "Belgium",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 3807000
+    },
+    {
+      "i": "Brazil",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 18710
+    },
+    {
+      "i": "Canada",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 1012536
+    },
+    {
+      "i": "Chile",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 46099
+    },
+    {
+      "i": "Croatia",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 6000
+    },
+    {
+      "i": "Cyprus",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 41000
+    },
+    {
+      "i": "Czechoslovakia",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 32000
+    },
+    {
+      "i": "Denmark",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 1506443
+    },
+    {
+      "i": "Egypt",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 269000
+    },
+    {
+      "i": "Faroe Islands",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 16000
+    },
+    {
+      "i": "Finland",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 526000
+    },
+    {
+      "i": "France",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 4532000
+    },
+    {
+      "i": "French Polynesia",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 2000
+    },
+    {
+      "i": "Greece",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 307341
+    },
+    {
+      "i": "Greenland",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 32000
+    },
+    {
+      "i": "Guadeloupe",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 7000
+    },
+    {
+      "i": "Hong Kong",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 55000
+    },
+    {
+      "i": "Hungary",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 65000
+    },
+    {
+      "i": "Iceland",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 34236
+    },
+    {
+      "i": "Ireland",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 37917
+    },
+    {
+      "i": "Italy",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 1850000
+    },
+    {
+      "i": "Japan",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 77267
+    },
+    {
+      "i": "Kazakhstan",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 73000
+    },
+    {
+      "i": "Korea, Democratic People's Republic of",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 101000
+    },
+    {
+      "i": "Korea, Republic of",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 543000
+    },
+    {
+      "i": "Lebanon",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 195000
+    },
+    {
+      "i": "Lithuania",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 200000
+    },
+    {
+      "i": "Macao",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 8200
+    },
+    {
+      "i": "Malaysia",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 115000
+    },
+    {
+      "i": "Mauritius",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 9000
+    },
+    {
+      "i": "Morocco",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 11000
+    },
+    {
+      "i": "Netherlands",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 1748439
+    },
+    {
+      "i": "New Caledonia",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 31000
+    },
+    {
+      "i": "New Zealand",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 3726
+    },
+    {
+      "i": "Norway",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 610000
+    },
+    {
+      "i": "Pakistan",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 84000
+    },
+    {
+      "i": "Panama",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 2000
+    },
+    {
+      "i": "Poland",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 332000
+    },
+    {
+      "i": "Portugal",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 109551
+    },
+    {
+      "i": "Russian Federation",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 466000
+    },
+    {
+      "i": "Saudi Arabia",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 50000
+    },
+    {
+      "i": "Senegal",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 10000
+    },
+    {
+      "i": "Serbia",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 5000
+    },
+    {
+      "i": "Singapore",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 194590
+    },
+    {
+      "i": "Slovenia",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 3000
+    },
+    {
+      "i": "Spain",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 1127000
+    },
+    {
+      "i": "Sweden",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 910000
+    },
+    {
+      "i": "Switzerland",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 3290082
+    },
+    {
+      "i": "Taiwan",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 38000
+    },
+    {
+      "i": "Tanzania, United Republic of",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 7000
+    },
+    {
+      "i": "Thailand",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 20373
+    },
+    {
+      "i": "Turkey",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 59000
+    },
+    {
+      "i": "Ukraine",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 4000
+    },
+    {
+      "i": "United Arab Emirates",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 32000
+    },
+    {
+      "i": "United Kingdom",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 1360000
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 3268000
+    },
+    {
+      "i": "Uruguay",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 37000
+    },
+    {
+      "i": "Finland",
+      "wc": "ammo",
+      "e": "Greece",
+      "v": 60774
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "Greece",
+      "v": 3997
+    },
+    {
+      "i": "Sudan",
+      "wc": "ammo",
+      "e": "Greece",
+      "v": 25108
+    },
+    {
+      "i": "Mexico",
+      "wc": "ammo",
+      "e": "Hong Kong",
+      "v": 13000
+    },
+    {
+      "i": "Canada",
+      "wc": "ammo",
+      "e": "Hungary",
+      "v": 518948
+    },
+    {
+      "i": "Denmark",
+      "wc": "ammo",
+      "e": "Hungary",
+      "v": 381474
+    },
+    {
+      "i": "Finland",
+      "wc": "ammo",
+      "e": "Hungary",
+      "v": 212316
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "Hungary",
+      "v": 435000
+    },
+    {
+      "i": "Sweden",
+      "wc": "ammo",
+      "e": "Hungary",
+      "v": 223615
+    },
+    {
+      "i": "Turkey",
+      "wc": "ammo",
+      "e": "Hungary",
+      "v": 90510
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "Hungary",
+      "v": 786043
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "Iceland",
+      "v": 11989
+    },
+    {
+      "i": "Australia",
+      "wc": "ammo",
+      "e": "India",
+      "v": 2702
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "India",
+      "v": 29464
+    },
+    {
+      "i": "Ghana",
+      "wc": "ammo",
+      "e": "India",
+      "v": 1127
+    },
+    {
+      "i": "Netherlands",
+      "wc": "ammo",
+      "e": "India",
+      "v": 1504
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "India",
+      "v": 817226
+    },
+    {
+      "i": "Australia",
+      "wc": "ammo",
+      "e": "Italy",
+      "v": 54087
+    },
+    {
+      "i": "Canada",
+      "wc": "ammo",
+      "e": "Italy",
+      "v": 136999
+    },
+    {
+      "i": "Chile",
+      "wc": "ammo",
+      "e": "Italy",
+      "v": 298353
+    },
+    {
+      "i": "China",
+      "wc": "ammo",
+      "e": "Italy",
+      "v": 23199
+    },
+    {
+      "i": "Croatia",
+      "wc": "ammo",
+      "e": "Italy",
+      "v": 36264
+    },
+    {
+      "i": "Cyprus",
+      "wc": "ammo",
+      "e": "Italy",
+      "v": 1889
+    },
+    {
+      "i": "Denmark",
+      "wc": "ammo",
+      "e": "Italy",
+      "v": 258068
+    },
+    {
+      "i": "Finland",
+      "wc": "ammo",
+      "e": "Italy",
+      "v": 1257616
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "Italy",
+      "v": 5786000
+    },
+    {
+      "i": "Greece",
+      "wc": "ammo",
+      "e": "Italy",
+      "v": 1066019
+    },
+    {
+      "i": "Iceland",
+      "wc": "ammo",
+      "e": "Italy",
+      "v": 82318
+    },
+    {
+      "i": "Ireland",
+      "wc": "ammo",
+      "e": "Italy",
+      "v": 7297
+    },
+    {
+      "i": "Japan",
+      "wc": "ammo",
+      "e": "Italy",
+      "v": 2927837
+    },
+    {
+      "i": "Mexico",
+      "wc": "ammo",
+      "e": "Italy",
+      "v": 1067000
+    },
+    {
+      "i": "Netherlands",
+      "wc": "ammo",
+      "e": "Italy",
+      "v": 1056021
+    },
+    {
+      "i": "New Zealand",
+      "wc": "ammo",
+      "e": "Italy",
+      "v": 33563
+    },
+    {
+      "i": "Portugal",
+      "wc": "ammo",
+      "e": "Italy",
+      "v": 325588
+    },
+    {
+      "i": "Saudi Arabia",
+      "wc": "ammo",
+      "e": "Italy",
+      "v": 2708
+    },
+    {
+      "i": "Singapore",
+      "wc": "ammo",
+      "e": "Italy",
+      "v": 45215
+    },
+    {
+      "i": "Spain",
+      "wc": "ammo",
+      "e": "Italy",
+      "v": 1313055
+    },
+    {
+      "i": "Sweden",
+      "wc": "ammo",
+      "e": "Italy",
+      "v": 842514
+    },
+    {
+      "i": "Switzerland",
+      "wc": "ammo",
+      "e": "Italy",
+      "v": 304238
+    },
+    {
+      "i": "Thailand",
+      "wc": "ammo",
+      "e": "Italy",
+      "v": 74781
+    },
+    {
+      "i": "Tunisia",
+      "wc": "ammo",
+      "e": "Italy",
+      "v": 106470
+    },
+    {
+      "i": "Turkey",
+      "wc": "ammo",
+      "e": "Italy",
+      "v": 1332367
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "Italy",
+      "v": 5682050
+    },
+    {
+      "i": "Unspecified Country",
+      "wc": "ammo",
+      "e": "Jamaica",
+      "v": 34
+    },
+    {
+      "i": "Australia",
+      "wc": "ammo",
+      "e": "Japan",
+      "v": 153206
+    },
+    {
+      "i": "Malaysia",
+      "wc": "ammo",
+      "e": "Japan",
+      "v": 6237
+    },
+    {
+      "i": "Sri Lanka",
+      "wc": "ammo",
+      "e": "Japan",
+      "v": 1940
+    },
+    {
+      "i": "Croatia",
+      "wc": "ammo",
+      "e": "Lebanon",
+      "v": 40000
+    },
+    {
+      "i": "Pakistan",
+      "wc": "ammo",
+      "e": "Malaysia",
+      "v": 61633
+    },
+    {
+      "i": "Argentina",
+      "wc": "ammo",
+      "e": "Mexico",
+      "v": 39000
+    },
+    {
+      "i": "Paraguay",
+      "wc": "ammo",
+      "e": "Mexico",
+      "v": 189298
+    },
+    {
+      "i": "Thailand",
+      "wc": "ammo",
+      "e": "Mexico",
+      "v": 102000
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "Mexico",
+      "v": 2588123
+    },
+    {
+      "i": "Uruguay",
+      "wc": "ammo",
+      "e": "Mexico",
+      "v": 68000
+    },
+    {
+      "i": "Belgium",
+      "wc": "ammo",
+      "e": "Netherlands",
+      "v": 90886
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "Netherlands",
+      "v": 460197
+    },
+    {
+      "i": "Indonesia",
+      "wc": "ammo",
+      "e": "Netherlands",
+      "v": 337148
+    },
+    {
+      "i": "Singapore",
+      "wc": "ammo",
+      "e": "Netherlands",
+      "v": 11442
+    },
+    {
+      "i": "Sweden",
+      "wc": "ammo",
+      "e": "Netherlands",
+      "v": 71719
+    },
+    {
+      "i": "United Kingdom",
+      "wc": "ammo",
+      "e": "Netherlands",
+      "v": 1065008
+    },
+    {
+      "i": "French Polynesia",
+      "wc": "ammo",
+      "e": "New Zealand",
+      "v": 7376
+    },
+    {
+      "i": "Norfolk Island",
+      "wc": "ammo",
+      "e": "New Zealand",
+      "v": 3899
+    },
+    {
+      "i": "Tonga",
+      "wc": "ammo",
+      "e": "New Zealand",
+      "v": 8659
+    },
+    {
+      "i": "U.S. Pacific Trust Territories",
+      "wc": "ammo",
+      "e": "New Zealand",
+      "v": 2680
+    },
+    {
+      "i": "Wallis and Futuna",
+      "wc": "ammo",
+      "e": "New Zealand",
+      "v": 3037
+    },
+    {
+      "i": "Sweden",
+      "wc": "ammo",
+      "e": "Norway",
+      "v": 3096
+    },
+    {
+      "i": "Argentina",
+      "wc": "ammo",
+      "e": "Peru",
+      "v": 120960
+    },
+    {
+      "i": "Brazil",
+      "wc": "ammo",
+      "e": "Peru",
+      "v": 26250
+    },
+    {
+      "i": "Chile",
+      "wc": "ammo",
+      "e": "Peru",
+      "v": 159124
+    },
+    {
+      "i": "Colombia",
+      "wc": "ammo",
+      "e": "Peru",
+      "v": 5949
+    },
+    {
+      "i": "New Zealand",
+      "wc": "ammo",
+      "e": "Peru",
+      "v": 41580
+    },
+    {
+      "i": "Portugal",
+      "wc": "ammo",
+      "e": "Peru",
+      "v": 71380
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "Peru",
+      "v": 1156059
+    },
+    {
+      "i": "Chile",
+      "wc": "ammo",
+      "e": "Poland",
+      "v": 287079
+    },
+    {
+      "i": "Cyprus",
+      "wc": "ammo",
+      "e": "Poland",
+      "v": 43408
+    },
+    {
+      "i": "Finland",
+      "wc": "ammo",
+      "e": "Poland",
+      "v": 137493
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "Poland",
+      "v": 122000
+    },
+    {
+      "i": "New Zealand",
+      "wc": "ammo",
+      "e": "Poland",
+      "v": 70169
+    },
+    {
+      "i": "Sweden",
+      "wc": "ammo",
+      "e": "Poland",
+      "v": 516
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "Poland",
+      "v": 74621
+    },
+    {
+      "i": "Angola",
+      "wc": "ammo",
+      "e": "Portugal",
+      "v": 4388
+    },
+    {
+      "i": "Belgium",
+      "wc": "ammo",
+      "e": "Portugal",
+      "v": 1704
+    },
+    {
+      "i": "Guinea-Bissau",
+      "wc": "ammo",
+      "e": "Portugal",
+      "v": 74684
+    },
+    {
+      "i": "Spain",
+      "wc": "ammo",
+      "e": "Portugal",
+      "v": 603266
+    },
+    {
+      "i": "Unspecified Country",
+      "wc": "ammo",
+      "e": "Portugal",
+      "v": 309
+    },
+    {
+      "i": "Australia",
+      "wc": "ammo",
+      "e": "Russian Federation",
+      "v": 102879
+    },
+    {
+      "i": "Denmark",
+      "wc": "ammo",
+      "e": "Russian Federation",
+      "v": 30354
+    },
+    {
+      "i": "Finland",
+      "wc": "ammo",
+      "e": "Russian Federation",
+      "v": 1851959
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "Russian Federation",
+      "v": 207000
+    },
+    {
+      "i": "Iceland",
+      "wc": "ammo",
+      "e": "Russian Federation",
+      "v": 597
+    },
+    {
+      "i": "Sweden",
+      "wc": "ammo",
+      "e": "Russian Federation",
+      "v": 118688
+    },
+    {
+      "i": "Turkey",
+      "wc": "ammo",
+      "e": "Russian Federation",
+      "v": 32478
+    },
+    {
+      "i": "Canada",
+      "wc": "ammo",
+      "e": "Serbia",
+      "v": 90769
+    },
+    {
+      "i": "Sweden",
+      "wc": "ammo",
+      "e": "Serbia",
+      "v": 51603
+    },
+    {
+      "i": "Brunei Darussalam",
+      "wc": "ammo",
+      "e": "Singapore",
+      "v": 135622
+    },
+    {
+      "i": "Myanmar",
+      "wc": "ammo",
+      "e": "Singapore",
+      "v": 81903
+    },
+    {
+      "i": "India",
+      "wc": "ammo",
+      "e": "Singapore",
+      "v": 4268
+    },
+    {
+      "i": "Malaysia",
+      "wc": "ammo",
+      "e": "Singapore",
+      "v": 29008
+    },
+    {
+      "i": "Papua New Guinea",
+      "wc": "ammo",
+      "e": "Singapore",
+      "v": 19556
+    },
+    {
+      "i": "Andorra",
+      "wc": "ammo",
+      "e": "Spain",
+      "v": 24045
+    },
+    {
+      "i": "Argentina",
+      "wc": "ammo",
+      "e": "Spain",
+      "v": 428764
+    },
+    {
+      "i": "Australia",
+      "wc": "ammo",
+      "e": "Spain",
+      "v": 33084
+    },
+    {
+      "i": "Chile",
+      "wc": "ammo",
+      "e": "Spain",
+      "v": 133071
+    },
+    {
+      "i": "Finland",
+      "wc": "ammo",
+      "e": "Spain",
+      "v": 59472
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "Spain",
+      "v": 448075
+    },
+    {
+      "i": "Japan",
+      "wc": "ammo",
+      "e": "Spain",
+      "v": 375735
+    },
+    {
+      "i": "Mexico",
+      "wc": "ammo",
+      "e": "Spain",
+      "v": 93990
+    },
+    {
+      "i": "Panama",
+      "wc": "ammo",
+      "e": "Spain",
+      "v": 22158
+    },
+    {
+      "i": "Paraguay",
+      "wc": "ammo",
+      "e": "Spain",
+      "v": 13784
+    },
+    {
+      "i": "Portugal",
+      "wc": "ammo",
+      "e": "Spain",
+      "v": 598169
+    },
+    {
+      "i": "Uruguay",
+      "wc": "ammo",
+      "e": "Spain",
+      "v": 72932
+    },
+    {
+      "i": "Venezuela, Bolivarian Republic of",
+      "wc": "ammo",
+      "e": "Spain",
+      "v": 89693
+    },
+    {
+      "i": "Japan",
+      "wc": "ammo",
+      "e": "Suriname",
+      "v": 133204
+    },
+    {
+      "i": "Canada",
+      "wc": "ammo",
+      "e": "Sweden",
+      "v": 123560
+    },
+    {
+      "i": "Denmark",
+      "wc": "ammo",
+      "e": "Sweden",
+      "v": 851279
+    },
+    {
+      "i": "Faroe Islands",
+      "wc": "ammo",
+      "e": "Sweden",
+      "v": 3436
+    },
+    {
+      "i": "Finland",
+      "wc": "ammo",
+      "e": "Sweden",
+      "v": 308520
+    },
+    {
+      "i": "Japan",
+      "wc": "ammo",
+      "e": "Sweden",
+      "v": 602010
+    },
+    {
+      "i": "Kenya",
+      "wc": "ammo",
+      "e": "Sweden",
+      "v": 2210
+    },
+    {
+      "i": "Norway",
+      "wc": "ammo",
+      "e": "Sweden",
+      "v": 458104
+    },
+    {
+      "i": "United Kingdom",
+      "wc": "ammo",
+      "e": "Sweden",
+      "v": 687
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "Sweden",
+      "v": 1218838
+    },
+    {
+      "i": "Unspecified Country",
+      "wc": "ammo",
+      "e": "Sweden",
+      "v": 0
+    },
+    {
+      "i": "Chile",
+      "wc": "ammo",
+      "e": "Switzerland",
+      "v": 2019
+    },
+    {
+      "i": "Czechoslovakia",
+      "wc": "ammo",
+      "e": "Switzerland",
+      "v": 1336
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "Switzerland",
+      "v": 437171
+    },
+    {
+      "i": "India",
+      "wc": "ammo",
+      "e": "Switzerland",
+      "v": 812
+    },
+    {
+      "i": "Kenya",
+      "wc": "ammo",
+      "e": "Switzerland",
+      "v": 968
+    },
+    {
+      "i": "United Arab Emirates",
+      "wc": "ammo",
+      "e": "Switzerland",
+      "v": 3148
+    },
+    {
+      "i": "Indonesia",
+      "wc": "ammo",
+      "e": "Taiwan",
+      "v": 2763
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "Taiwan",
+      "v": 58805
+    },
+    {
+      "i": "Australia",
+      "wc": "ammo",
+      "e": "United Kingdom",
+      "v": 2438595
+    },
+    {
+      "i": "Brazil",
+      "wc": "ammo",
+      "e": "United Kingdom",
+      "v": 9638
+    },
+    {
+      "i": "Canada",
+      "wc": "ammo",
+      "e": "United Kingdom",
+      "v": 127907
+    },
+    {
+      "i": "China",
+      "wc": "ammo",
+      "e": "United Kingdom",
+      "v": 90126
+    },
+    {
+      "i": "Cyprus",
+      "wc": "ammo",
+      "e": "United Kingdom",
+      "v": 41499
+    },
+    {
+      "i": "Denmark",
+      "wc": "ammo",
+      "e": "United Kingdom",
+      "v": 867779
+    },
+    {
+      "i": "Finland",
+      "wc": "ammo",
+      "e": "United Kingdom",
+      "v": 133112
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "United Kingdom",
+      "v": 1035000
+    },
+    {
+      "i": "Greece",
+      "wc": "ammo",
+      "e": "United Kingdom",
+      "v": 31838
+    },
+    {
+      "i": "Iceland",
+      "wc": "ammo",
+      "e": "United Kingdom",
+      "v": 140608
+    },
+    {
+      "i": "India",
+      "wc": "ammo",
+      "e": "United Kingdom",
+      "v": 3248
+    },
+    {
+      "i": "Ireland",
+      "wc": "ammo",
+      "e": "United Kingdom",
+      "v": 1441604
+    },
+    {
+      "i": "Japan",
+      "wc": "ammo",
+      "e": "United Kingdom",
+      "v": 493981
+    },
+    {
+      "i": "Kenya",
+      "wc": "ammo",
+      "e": "United Kingdom",
+      "v": 85530
+    },
+    {
+      "i": "Malaysia",
+      "wc": "ammo",
+      "e": "United Kingdom",
+      "v": 32335
+    },
+    {
+      "i": "Netherlands",
+      "wc": "ammo",
+      "e": "United Kingdom",
+      "v": 108160
+    },
+    {
+      "i": "New Zealand",
+      "wc": "ammo",
+      "e": "United Kingdom",
+      "v": 187896
+    },
+    {
+      "i": "Portugal",
+      "wc": "ammo",
+      "e": "United Kingdom",
+      "v": 1644
+    },
+    {
+      "i": "Saudi Arabia",
+      "wc": "ammo",
+      "e": "United Kingdom",
+      "v": 159674
+    },
+    {
+      "i": "Singapore",
+      "wc": "ammo",
+      "e": "United Kingdom",
+      "v": 78177
+    },
+    {
+      "i": "Spain",
+      "wc": "ammo",
+      "e": "United Kingdom",
+      "v": 309435
+    },
+    {
+      "i": "Sri Lanka",
+      "wc": "ammo",
+      "e": "United Kingdom",
+      "v": 42218
+    },
+    {
+      "i": "Sweden",
+      "wc": "ammo",
+      "e": "United Kingdom",
+      "v": 410076
+    },
+    {
+      "i": "Switzerland",
+      "wc": "ammo",
+      "e": "United Kingdom",
+      "v": 1077534
+    },
+    {
+      "i": "Thailand",
+      "wc": "ammo",
+      "e": "United Kingdom",
+      "v": 57164
+    },
+    {
+      "i": "Turkey",
+      "wc": "ammo",
+      "e": "United Kingdom",
+      "v": 370602
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "United Kingdom",
+      "v": 1998767
+    },
+    {
+      "i": "Andorra",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 48835
+    },
+    {
+      "i": "Argentina",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 2187821
+    },
+    {
+      "i": "Australia",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 12445630
+    },
+    {
+      "i": "Austria",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 722816
+    },
+    {
+      "i": "Bangladesh",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 6745
+    },
+    {
+      "i": "Belgium",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 1408257
+    },
+    {
+      "i": "Bermuda",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 10682
+    },
+    {
+      "i": "Bolivia, Plurinational State of",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 786475
+    },
+    {
+      "i": "Brazil",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 368044
+    },
+    {
+      "i": "Canada",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 23312781
+    },
+    {
+      "i": "Cayman Islands",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 16000
+    },
+    {
+      "i": "Chile",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 280574
+    },
+    {
+      "i": "Colombia",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 3816297
+    },
+    {
+      "i": "Cyprus",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 4533
+    },
+    {
+      "i": "Denmark",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 1530559
+    },
+    {
+      "i": "Dominican Republic",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 198020
+    },
+    {
+      "i": "Ecuador",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 785931
+    },
+    {
+      "i": "Finland",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 559532
+    },
+    {
+      "i": "France",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 2628462
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 4353476
+    },
+    {
+      "i": "Greece",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 1136381
+    },
+    {
+      "i": "Guatemala",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 182801
+    },
+    {
+      "i": "Guyana",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 34300
+    },
+    {
+      "i": "Hong Kong",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 519291
+    },
+    {
+      "i": "Iceland",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 34553
+    },
+    {
+      "i": "India",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 18541
+    },
+    {
+      "i": "Indonesia",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 101451
+    },
+    {
+      "i": "Ireland",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 46882
+    },
+    {
+      "i": "Israel",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 1235018
+    },
+    {
+      "i": "Italy",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 3218635
+    },
+    {
+      "i": "Jamaica",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 182036
+    },
+    {
+      "i": "Japan",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 3002887
+    },
+    {
+      "i": "Jordan",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 348747
+    },
+    {
+      "i": "Kenya",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 2129
+    },
+    {
+      "i": "Korea, Republic of",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 2163699
+    },
+    {
+      "i": "Kuwait",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 2340254
+    },
+    {
+      "i": "Lebanon",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 118949
+    },
+    {
+      "i": "Malaysia",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 67590
+    },
+    {
+      "i": "Mexico",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 4038430
+    },
+    {
+      "i": "Netherlands",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 1417148
+    },
+    {
+      "i": "Netherlands Antilles",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 47878
+    },
+    {
+      "i": "New Caledonia",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 41438
+    },
+    {
+      "i": "New Zealand",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 590334
+    },
+    {
+      "i": "Norway",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 889725
+    },
+    {
+      "i": "Pakistan",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 200589
+    },
+    {
+      "i": "Panama",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 322607
+    },
+    {
+      "i": "Paraguay",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 59826
+    },
+    {
+      "i": "Peru",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 1697000
+    },
+    {
+      "i": "Portugal",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 211077
+    },
+    {
+      "i": "Saudi Arabia",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 2076636
+    },
+    {
+      "i": "Singapore",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 490015
+    },
+    {
+      "i": "South Africa",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 229745
+    },
+    {
+      "i": "Spain",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 31817999
+    },
+    {
+      "i": "Saint Lucia",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 23160
+    },
+    {
+      "i": "Sweden",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 728162
+    },
+    {
+      "i": "Switzerland",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 1749512
+    },
+    {
+      "i": "Taiwan",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 19000813
+    },
+    {
+      "i": "Thailand",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 772068
+    },
+    {
+      "i": "Trinidad and Tobago",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 33818
+    },
+    {
+      "i": "Turkey",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 3824171
+    },
+    {
+      "i": "United Kingdom",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 2726222
+    },
+    {
+      "i": "Uruguay",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 467717
+    },
+    {
+      "i": "Venezuela, Bolivarian Republic of",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 2115866
+    },
+    {
+      "i": "Australia",
+      "wc": "ammo",
+      "e": "Unspecified Country",
+      "v": 6137573
+    },
+    {
+      "i": "Belize",
+      "wc": "ammo",
+      "e": "Unspecified Country",
+      "v": 143
+    },
+    {
+      "i": "Canada",
+      "wc": "ammo",
+      "e": "Unspecified Country",
+      "v": 26969
+    },
+    {
+      "i": "China",
+      "wc": "ammo",
+      "e": "Unspecified Country",
+      "v": 555
+    },
+    {
+      "i": "Cyprus",
+      "wc": "ammo",
+      "e": "Unspecified Country",
+      "v": 199
+    },
+    {
+      "i": "Indonesia",
+      "wc": "ammo",
+      "e": "Unspecified Country",
+      "v": 877
+    },
+    {
+      "i": "Macao",
+      "wc": "ammo",
+      "e": "Unspecified Country",
+      "v": 128
+    },
+    {
+      "i": "Madagascar",
+      "wc": "ammo",
+      "e": "Unspecified Country",
+      "v": 411
+    },
+    {
+      "i": "Peru",
+      "wc": "ammo",
+      "e": "Unspecified Country",
+      "v": 125
+    },
+    {
+      "i": "Portugal",
+      "wc": "ammo",
+      "e": "Unspecified Country",
+      "v": 351
+    },
+    {
+      "i": "Singapore",
+      "wc": "ammo",
+      "e": "Unspecified Country",
+      "v": 0
+    },
+    {
+      "i": "Sweden",
+      "wc": "ammo",
+      "e": "Unspecified Country",
+      "v": 0
+    },
+    {
+      "i": "Switzerland",
+      "wc": "ammo",
+      "e": "Unspecified Country",
+      "v": 303
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "Algeria",
+      "v": 3000
+    },
+    {
+      "i": "Finland",
+      "wc": "ammo",
+      "e": "Argentina",
+      "v": 5124
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "Argentina",
+      "v": 48000
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "Argentina",
+      "v": 18235
+    },
+    {
+      "i": "Austria",
+      "wc": "ammo",
+      "e": "Australia",
+      "v": 513
+    },
+    {
+      "i": "Belgium",
+      "wc": "ammo",
+      "e": "Australia",
+      "v": 261806
+    },
+    {
+      "i": "Canada",
+      "wc": "ammo",
+      "e": "Australia",
+      "v": 3099
+    },
+    {
+      "i": "Finland",
+      "wc": "ammo",
+      "e": "Australia",
+      "v": 74113
+    },
+    {
+      "i": "France",
+      "wc": "ammo",
+      "e": "Australia",
+      "v": 2599955
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "Australia",
+      "v": 133000
+    },
+    {
+      "i": "Kenya",
+      "wc": "ammo",
+      "e": "Australia",
+      "v": 2934
+    },
+    {
+      "i": "Malaysia",
+      "wc": "ammo",
+      "e": "Australia",
+      "v": 70637
+    },
+    {
+      "i": "Norfolk Island",
+      "wc": "ammo",
+      "e": "Australia",
+      "v": 2356
+    },
+    {
+      "i": "Sweden",
+      "wc": "ammo",
+      "e": "Australia",
+      "v": 19278
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "Australia",
+      "v": 14120
+    },
+    {
+      "i": "Algeria",
+      "wc": "ammo",
+      "e": "Austria",
+      "v": 1048819
+    },
+    {
+      "i": "Australia",
+      "wc": "ammo",
+      "e": "Austria",
+      "v": 1752413
+    },
+    {
+      "i": "Canada",
+      "wc": "ammo",
+      "e": "Austria",
+      "v": 13453
+    },
+    {
+      "i": "Croatia",
+      "wc": "ammo",
+      "e": "Austria",
+      "v": 548
+    },
+    {
+      "i": "Finland",
+      "wc": "ammo",
+      "e": "Austria",
+      "v": 9060
+    },
+    {
+      "i": "Malaysia",
+      "wc": "ammo",
+      "e": "Austria",
+      "v": 9974
+    },
+    {
+      "i": "Portugal",
+      "wc": "ammo",
+      "e": "Austria",
+      "v": 6605
+    },
+    {
+      "i": "Spain",
+      "wc": "ammo",
+      "e": "Austria",
+      "v": 124050
+    },
+    {
+      "i": "Switzerland",
+      "wc": "ammo",
+      "e": "Austria",
+      "v": 155753
+    },
+    {
+      "i": "Thailand",
+      "wc": "ammo",
+      "e": "Austria",
+      "v": 338989
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "Austria",
+      "v": 67699
+    },
+    {
+      "i": "Australia",
+      "wc": "ammo",
+      "e": "Belgium",
+      "v": 237817
+    },
+    {
+      "i": "Canada",
+      "wc": "ammo",
+      "e": "Belgium",
+      "v": 1671
+    },
+    {
+      "i": "New Zealand",
+      "wc": "ammo",
+      "e": "Belgium",
+      "v": 575725
+    },
+    {
+      "i": "Spain",
+      "wc": "ammo",
+      "e": "Belgium",
+      "v": 211833
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "Belgium",
+      "v": 39223
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "Bosnia and Herzegovina",
+      "v": 65000
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "Bulgaria",
+      "v": 2000
+    },
+    {
+      "i": "Switzerland",
+      "wc": "ammo",
+      "e": "Bulgaria",
+      "v": 6976
+    },
+    {
+      "i": "Australia",
+      "wc": "ammo",
+      "e": "Canada",
+      "v": 383235
+    },
+    {
+      "i": "Bulgaria",
+      "wc": "ammo",
+      "e": "Canada",
+      "v": 6022
+    },
+    {
+      "i": "Cyprus",
+      "wc": "ammo",
+      "e": "Canada",
+      "v": 4269
+    },
+    {
+      "i": "Finland",
+      "wc": "ammo",
+      "e": "Canada",
+      "v": 5541
+    },
+    {
+      "i": "France",
+      "wc": "ammo",
+      "e": "Canada",
+      "v": 13969
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "Canada",
+      "v": 47000
+    },
+    {
+      "i": "Greece",
+      "wc": "ammo",
+      "e": "Canada",
+      "v": 2960
+    },
+    {
+      "i": "Hong Kong",
+      "wc": "ammo",
+      "e": "Canada",
+      "v": 14518
+    },
+    {
+      "i": "Japan",
+      "wc": "ammo",
+      "e": "Canada",
+      "v": 7891
+    },
+    {
+      "i": "Korea, Republic of",
+      "wc": "ammo",
+      "e": "Canada",
+      "v": 112242
+    },
+    {
+      "i": "Netherlands",
+      "wc": "ammo",
+      "e": "Canada",
+      "v": 818
+    },
+    {
+      "i": "New Zealand",
+      "wc": "ammo",
+      "e": "Canada",
+      "v": 18805
+    },
+    {
+      "i": "Qatar",
+      "wc": "ammo",
+      "e": "Canada",
+      "v": 7838
+    },
+    {
+      "i": "Singapore",
+      "wc": "ammo",
+      "e": "Canada",
+      "v": 5568
+    },
+    {
+      "i": "Switzerland",
+      "wc": "ammo",
+      "e": "Canada",
+      "v": 8663
+    },
+    {
+      "i": "Thailand",
+      "wc": "ammo",
+      "e": "Canada",
+      "v": 3609
+    },
+    {
+      "i": "United Kingdom",
+      "wc": "ammo",
+      "e": "Canada",
+      "v": 24224
+    },
+    {
+      "i": "Canada",
+      "wc": "ammo",
+      "e": "China",
+      "v": 14692
+    },
+    {
+      "i": "Finland",
+      "wc": "ammo",
+      "e": "China",
+      "v": 57348
+    },
+    {
+      "i": "Malaysia",
+      "wc": "ammo",
+      "e": "China",
+      "v": 9389
+    },
+    {
+      "i": "Turkey",
+      "wc": "ammo",
+      "e": "China",
+      "v": 94113
+    },
+    {
+      "i": "Korea, Republic of",
+      "wc": "ammo",
+      "e": "Cyprus",
+      "v": 30706
+    },
+    {
+      "i": "Chile",
+      "wc": "ammo",
+      "e": "Czechoslovakia",
+      "v": 4325
+    },
+    {
+      "i": "Colombia",
+      "wc": "ammo",
+      "e": "Czechoslovakia",
+      "v": 24673
+    },
+    {
+      "i": "Malaysia",
+      "wc": "ammo",
+      "e": "Czechoslovakia",
+      "v": 25031
+    },
+    {
+      "i": "Switzerland",
+      "wc": "ammo",
+      "e": "Czechoslovakia",
+      "v": 513889
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "Czechoslovakia",
+      "v": 457577
+    },
+    {
+      "i": "Australia",
+      "wc": "ammo",
+      "e": "Denmark",
+      "v": 932965
+    },
+    {
+      "i": "Brazil",
+      "wc": "ammo",
+      "e": "Denmark",
+      "v": 61063
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "Denmark",
+      "v": 23000
+    },
+    {
+      "i": "Switzerland",
+      "wc": "ammo",
+      "e": "Denmark",
+      "v": 94835
+    },
+    {
+      "i": "Thailand",
+      "wc": "ammo",
+      "e": "Denmark",
+      "v": 26745
+    },
+    {
+      "i": "United Kingdom",
+      "wc": "ammo",
+      "e": "Denmark",
+      "v": 111650
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "Egypt",
+      "v": 84957
+    },
+    {
+      "i": "Australia",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 46722
+    },
+    {
+      "i": "Austria",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 170561
+    },
+    {
+      "i": "Belgium",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 80835
+    },
+    {
+      "i": "Bulgaria",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 52342
+    },
+    {
+      "i": "Chile",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 24537
+    },
+    {
+      "i": "China",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 12209
+    },
+    {
+      "i": "Czechoslovakia",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 19814
+    },
+    {
+      "i": "Denmark",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 542496
+    },
+    {
+      "i": "France",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 435134
+    },
+    {
+      "i": "Greece",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 21828
+    },
+    {
+      "i": "Guatemala",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 3024
+    },
+    {
+      "i": "Hong Kong",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 25590
+    },
+    {
+      "i": "Hungary",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 106656
+    },
+    {
+      "i": "Iceland",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 16418
+    },
+    {
+      "i": "India",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 44124
+    },
+    {
+      "i": "Italy",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 101444
+    },
+    {
+      "i": "Japan",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 5217
+    },
+    {
+      "i": "Korea, Republic of",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 58334
+    },
+    {
+      "i": "Kuwait",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 8356
+    },
+    {
+      "i": "Latvia",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 5329
+    },
+    {
+      "i": "Malaysia",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 173151
+    },
+    {
+      "i": "Netherlands",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 20822
+    },
+    {
+      "i": "New Zealand",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 28357
+    },
+    {
+      "i": "Norway",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 665612
+    },
+    {
+      "i": "Oceania",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 5783
+    },
+    {
+      "i": "Poland",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 91521
+    },
+    {
+      "i": "Portugal",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 25040
+    },
+    {
+      "i": "Singapore",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 82844
+    },
+    {
+      "i": "South Africa",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 13206
+    },
+    {
+      "i": "Switzerland",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 196844
+    },
+    {
+      "i": "Tunisia",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 9021
+    },
+    {
+      "i": "Turkey",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 21361
+    },
+    {
+      "i": "United Arab Emirates",
+      "wc": "ammo",
+      "e": "Finland",
+      "v": 201551
+    },
+    {
+      "i": "Australia",
+      "wc": "ammo",
+      "e": "France",
+      "v": 6728
+    },
+    {
+      "i": "Canada",
+      "wc": "ammo",
+      "e": "France",
+      "v": 8429
+    },
+    {
+      "i": "Denmark",
+      "wc": "ammo",
+      "e": "France",
+      "v": 418475
+    },
+    {
+      "i": "Greece",
+      "wc": "ammo",
+      "e": "France",
+      "v": 188444
+    },
+    {
+      "i": "Thailand",
+      "wc": "ammo",
+      "e": "France",
+      "v": 20567
+    },
+    {
+      "i": "Bolivia, Plurinational State of",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 1000
+    },
+    {
+      "i": "Bulgaria",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 8000
+    },
+    {
+      "i": "Cameroon",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 3000
+    },
+    {
+      "i": "China",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 690000
+    },
+    {
+      "i": "Colombia",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 2000
+    },
+    {
+      "i": "El Salvador",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 14000
+    },
+    {
+      "i": "Estonia",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 1000
+    },
+    {
+      "i": "India",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 3000
+    },
+    {
+      "i": "Indonesia",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 130000
+    },
+    {
+      "i": "Israel",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 21000
+    },
+    {
+      "i": "Jordan",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 4000
+    },
+    {
+      "i": "Kenya",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 1239
+    },
+    {
+      "i": "Latvia",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 262000
+    },
+    {
+      "i": "Martinique",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 3000
+    },
+    {
+      "i": "Mexico",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 20000
+    },
+    {
+      "i": "Mongolia",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 3000
+    },
+    {
+      "i": "Oman",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 32000
+    },
+    {
+      "i": "Papua New Guinea",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 7000
+    },
+    {
+      "i": "Peru",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 4000
+    },
+    {
+      "i": "Qatar",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 5000
+    },
+    {
+      "i": "Romania",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 39000
+    },
+    {
+      "i": "South Africa",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 32000
+    },
+    {
+      "i": "Zimbabwe",
+      "wc": "ammo",
+      "e": "Germany",
+      "v": 2000
+    },
+    {
+      "i": "Malaysia",
+      "wc": "ammo",
+      "e": "Greece",
+      "v": 1072
+    },
+    {
+      "i": "New Zealand",
+      "wc": "ammo",
+      "e": "Greece",
+      "v": 10483
+    },
+    {
+      "i": "Switzerland",
+      "wc": "ammo",
+      "e": "Greece",
+      "v": 12637
+    },
+    {
+      "i": "United Kingdom",
+      "wc": "ammo",
+      "e": "Greece",
+      "v": 12535
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "Greece",
+      "v": 24503
+    },
+    {
+      "i": "New Zealand",
+      "wc": "ammo",
+      "e": "Hong Kong",
+      "v": 15955
+    },
+    {
+      "i": "Switzerland",
+      "wc": "ammo",
+      "e": "Hungary",
+      "v": 50777
+    },
+    {
+      "i": "United Kingdom",
+      "wc": "ammo",
+      "e": "India",
+      "v": 2859
+    },
+    {
+      "i": "Belgium",
+      "wc": "ammo",
+      "e": "Indonesia",
+      "v": 7145
+    },
+    {
+      "i": "Switzerland",
+      "wc": "ammo",
+      "e": "Ireland",
+      "v": 3801
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "Ireland",
+      "v": 1702
+    },
+    {
+      "i": "Australia",
+      "wc": "ammo",
+      "e": "Israel",
+      "v": 1306082
+    },
+    {
+      "i": "Bolivia, Plurinational State of",
+      "wc": "ammo",
+      "e": "Israel",
+      "v": 2452
+    },
+    {
+      "i": "Canada",
+      "wc": "ammo",
+      "e": "Israel",
+      "v": 66985
+    },
+    {
+      "i": "Denmark",
+      "wc": "ammo",
+      "e": "Israel",
+      "v": 1049835
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "Israel",
+      "v": 17000
+    },
+    {
+      "i": "New Zealand",
+      "wc": "ammo",
+      "e": "Israel",
+      "v": 4123
+    },
+    {
+      "i": "Spain",
+      "wc": "ammo",
+      "e": "Israel",
+      "v": 9741
+    },
+    {
+      "i": "Switzerland",
+      "wc": "ammo",
+      "e": "Israel",
+      "v": 11320
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "Israel",
+      "v": 2712174
+    },
+    {
+      "i": "Colombia",
+      "wc": "ammo",
+      "e": "Italy",
+      "v": 207339
+    },
+    {
+      "i": "Malaysia",
+      "wc": "ammo",
+      "e": "Italy",
+      "v": 5822
+    },
+    {
+      "i": "Cambodia",
+      "wc": "ammo",
+      "e": "Japan",
+      "v": 25798
+    },
+    {
+      "i": "Canada",
+      "wc": "ammo",
+      "e": "Japan",
+      "v": 1402
+    },
+    {
+      "i": "Cyprus",
+      "wc": "ammo",
+      "e": "Japan",
+      "v": 1300
+    },
+    {
+      "i": "Australia",
+      "wc": "ammo",
+      "e": "Korea, Republic of",
+      "v": 79921
+    },
+    {
+      "i": "Canada",
+      "wc": "ammo",
+      "e": "Korea, Republic of",
+      "v": 10251
+    },
+    {
+      "i": "Japan",
+      "wc": "ammo",
+      "e": "Korea, Republic of",
+      "v": 34826
+    },
+    {
+      "i": "New Zealand",
+      "wc": "ammo",
+      "e": "Korea, Republic of",
+      "v": 210569
+    },
+    {
+      "i": "Spain",
+      "wc": "ammo",
+      "e": "Korea, Republic of",
+      "v": 41812
+    },
+    {
+      "i": "Thailand",
+      "wc": "ammo",
+      "e": "Korea, Republic of",
+      "v": 263933
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "Korea, Republic of",
+      "v": 8452527
+    },
+    {
+      "i": "Singapore",
+      "wc": "ammo",
+      "e": "Malaysia",
+      "v": 4508
+    },
+    {
+      "i": "Canada",
+      "wc": "ammo",
+      "e": "Mexico",
+      "v": 58921
+    },
+    {
+      "i": "Spain",
+      "wc": "ammo",
+      "e": "Mexico",
+      "v": 35090
+    },
+    {
+      "i": "Austria",
+      "wc": "ammo",
+      "e": "Netherlands",
+      "v": 9107
+    },
+    {
+      "i": "Egypt",
+      "wc": "ammo",
+      "e": "Netherlands",
+      "v": 29228
+    },
+    {
+      "i": "France",
+      "wc": "ammo",
+      "e": "Netherlands",
+      "v": 1110342
+    },
+    {
+      "i": "Norway",
+      "wc": "ammo",
+      "e": "Netherlands",
+      "v": 1257
+    },
+    {
+      "i": "Switzerland",
+      "wc": "ammo",
+      "e": "Netherlands",
+      "v": 1365319
+    },
+    {
+      "i": "Turkey",
+      "wc": "ammo",
+      "e": "Netherlands",
+      "v": 370321
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "Netherlands",
+      "v": 4966
+    },
+    {
+      "i": "Australia",
+      "wc": "ammo",
+      "e": "New Zealand",
+      "v": 2104
+    },
+    {
+      "i": "Papua New Guinea",
+      "wc": "ammo",
+      "e": "New Zealand",
+      "v": 1446
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "New Zealand",
+      "v": 159964
+    },
+    {
+      "i": "Australia",
+      "wc": "ammo",
+      "e": "Norway",
+      "v": 5534
+    },
+    {
+      "i": "Finland",
+      "wc": "ammo",
+      "e": "Norway",
+      "v": 3606
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "Norway",
+      "v": 60000
+    },
+    {
+      "i": "Switzerland",
+      "wc": "ammo",
+      "e": "Norway",
+      "v": 83681
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "Norway",
+      "v": 49427
+    },
+    {
+      "i": "Thailand",
+      "wc": "ammo",
+      "e": "Pakistan",
+      "v": 26745
+    },
+    {
+      "i": "Mexico",
+      "wc": "ammo",
+      "e": "Panama",
+      "v": 310000
+    },
+    {
+      "i": "Chile",
+      "wc": "ammo",
+      "e": "Paraguay",
+      "v": 1014
+    },
+    {
+      "i": "Unspecified Country",
+      "wc": "ammo",
+      "e": "Peru",
+      "v": 14211
+    },
+    {
+      "i": "Australia",
+      "wc": "ammo",
+      "e": "Philippines",
+      "v": 12864
+    },
+    {
+      "i": "Canada",
+      "wc": "ammo",
+      "e": "Philippines",
+      "v": 106469
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "Philippines",
+      "v": 170000
+    },
+    {
+      "i": "New Zealand",
+      "wc": "ammo",
+      "e": "Philippines",
+      "v": 48219
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "Philippines",
+      "v": 141501
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "Portugal",
+      "v": 2000
+    },
+    {
+      "i": "Turkey",
+      "wc": "ammo",
+      "e": "Portugal",
+      "v": 380858
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "Portugal",
+      "v": 45718
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "Romania",
+      "v": 18000
+    },
+    {
+      "i": "Kuwait",
+      "wc": "ammo",
+      "e": "Saudi Arabia",
+      "v": 5340
+    },
+    {
+      "i": "Algeria",
+      "wc": "ammo",
+      "e": "Serbia",
+      "v": 354155
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "Serbia",
+      "v": 402000
+    },
+    {
+      "i": "Greece",
+      "wc": "ammo",
+      "e": "Serbia",
+      "v": 158000
+    },
+    {
+      "i": "Iran, Islamic Republic of",
+      "wc": "ammo",
+      "e": "Serbia",
+      "v": 118000
+    },
+    {
+      "i": "Switzerland",
+      "wc": "ammo",
+      "e": "Serbia",
+      "v": 538
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "Serbia",
+      "v": 2072447
+    },
+    {
+      "i": "Indonesia",
+      "wc": "ammo",
+      "e": "Singapore",
+      "v": 6202
+    },
+    {
+      "i": "New Zealand",
+      "wc": "ammo",
+      "e": "Singapore",
+      "v": 620
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "Singapore",
+      "v": 126772
+    },
+    {
+      "i": "Thailand",
+      "wc": "ammo",
+      "e": "South Africa",
+      "v": 12891
+    },
+    {
+      "i": "Turkey",
+      "wc": "ammo",
+      "e": "South Africa",
+      "v": 31086
+    },
+    {
+      "i": "Angola",
+      "wc": "ammo",
+      "e": "Spain",
+      "v": 16420
+    },
+    {
+      "i": "Belgium",
+      "wc": "ammo",
+      "e": "Spain",
+      "v": 54090
+    },
+    {
+      "i": "Bolivia, Plurinational State of",
+      "wc": "ammo",
+      "e": "Spain",
+      "v": 1217
+    },
+    {
+      "i": "Burkina Faso",
+      "wc": "ammo",
+      "e": "Spain",
+      "v": 54235
+    },
+    {
+      "i": "Canada",
+      "wc": "ammo",
+      "e": "Spain",
+      "v": 116552
+    },
+    {
+      "i": "Cuba",
+      "wc": "ammo",
+      "e": "Spain",
+      "v": 5322
+    },
+    {
+      "i": "Equatorial Guinea",
+      "wc": "ammo",
+      "e": "Spain",
+      "v": 5454
+    },
+    {
+      "i": "France",
+      "wc": "ammo",
+      "e": "Spain",
+      "v": 586319
+    },
+    {
+      "i": "Israel",
+      "wc": "ammo",
+      "e": "Spain",
+      "v": 96363
+    },
+    {
+      "i": "Lebanon",
+      "wc": "ammo",
+      "e": "Spain",
+      "v": 15465
+    },
+    {
+      "i": "Morocco",
+      "wc": "ammo",
+      "e": "Spain",
+      "v": 701
+    },
+    {
+      "i": "Nigeria",
+      "wc": "ammo",
+      "e": "Spain",
+      "v": 471681
+    },
+    {
+      "i": "Thailand",
+      "wc": "ammo",
+      "e": "Spain",
+      "v": 102272
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "Spain",
+      "v": 151015
+    },
+    {
+      "i": "Unspecified Country",
+      "wc": "ammo",
+      "e": "Spain",
+      "v": 1129
+    },
+    {
+      "i": "Unspecified Country",
+      "wc": "ammo",
+      "e": "Sri Lanka",
+      "v": 96
+    },
+    {
+      "i": "Australia",
+      "wc": "ammo",
+      "e": "Sweden",
+      "v": 739583
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "Sweden",
+      "v": 2430000
+    },
+    {
+      "i": "Netherlands",
+      "wc": "ammo",
+      "e": "Sweden",
+      "v": 30753
+    },
+    {
+      "i": "New Zealand",
+      "wc": "ammo",
+      "e": "Sweden",
+      "v": 19634
+    },
+    {
+      "i": "Spain",
+      "wc": "ammo",
+      "e": "Sweden",
+      "v": 248690
+    },
+    {
+      "i": "Switzerland",
+      "wc": "ammo",
+      "e": "Sweden",
+      "v": 24545
+    },
+    {
+      "i": "Austria",
+      "wc": "ammo",
+      "e": "Switzerland",
+      "v": 1731075
+    },
+    {
+      "i": "Bahrain",
+      "wc": "ammo",
+      "e": "Switzerland",
+      "v": 712
+    },
+    {
+      "i": "Belgium",
+      "wc": "ammo",
+      "e": "Switzerland",
+      "v": 1799
+    },
+    {
+      "i": "Canada",
+      "wc": "ammo",
+      "e": "Switzerland",
+      "v": 291294
+    },
+    {
+      "i": "Denmark",
+      "wc": "ammo",
+      "e": "Switzerland",
+      "v": 634618
+    },
+    {
+      "i": "Egypt",
+      "wc": "ammo",
+      "e": "Switzerland",
+      "v": 504527
+    },
+    {
+      "i": "Finland",
+      "wc": "ammo",
+      "e": "Switzerland",
+      "v": 2491
+    },
+    {
+      "i": "France",
+      "wc": "ammo",
+      "e": "Switzerland",
+      "v": 7920
+    },
+    {
+      "i": "Greece",
+      "wc": "ammo",
+      "e": "Switzerland",
+      "v": 7770
+    },
+    {
+      "i": "Guinea",
+      "wc": "ammo",
+      "e": "Switzerland",
+      "v": 712
+    },
+    {
+      "i": "Italy",
+      "wc": "ammo",
+      "e": "Switzerland",
+      "v": 1144677
+    },
+    {
+      "i": "Japan",
+      "wc": "ammo",
+      "e": "Switzerland",
+      "v": 232281
+    },
+    {
+      "i": "Malaysia",
+      "wc": "ammo",
+      "e": "Switzerland",
+      "v": 1824097
+    },
+    {
+      "i": "Netherlands",
+      "wc": "ammo",
+      "e": "Switzerland",
+      "v": 38240
+    },
+    {
+      "i": "Norway",
+      "wc": "ammo",
+      "e": "Switzerland",
+      "v": 27006
+    },
+    {
+      "i": "Poland",
+      "wc": "ammo",
+      "e": "Switzerland",
+      "v": 11415
+    },
+    {
+      "i": "Qatar",
+      "wc": "ammo",
+      "e": "Switzerland",
+      "v": 1888
+    },
+    {
+      "i": "Singapore",
+      "wc": "ammo",
+      "e": "Switzerland",
+      "v": 1939499
+    },
+    {
+      "i": "South Africa",
+      "wc": "ammo",
+      "e": "Switzerland",
+      "v": 819
+    },
+    {
+      "i": "Sweden",
+      "wc": "ammo",
+      "e": "Switzerland",
+      "v": 525659
+    },
+    {
+      "i": "Tanzania, United Republic of",
+      "wc": "ammo",
+      "e": "Switzerland",
+      "v": 4138
+    },
+    {
+      "i": "Thailand",
+      "wc": "ammo",
+      "e": "Switzerland",
+      "v": 830
+    },
+    {
+      "i": "United Kingdom",
+      "wc": "ammo",
+      "e": "Switzerland",
+      "v": 2333
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "Switzerland",
+      "v": 12302
+    },
+    {
+      "i": "Unspecified Country",
+      "wc": "ammo",
+      "e": "Switzerland",
+      "v": 0
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "Taiwan",
+      "v": 11000
+    },
+    {
+      "i": "France",
+      "wc": "ammo",
+      "e": "Thailand",
+      "v": 2327
+    },
+    {
+      "i": "Malaysia",
+      "wc": "ammo",
+      "e": "Thailand",
+      "v": 3776
+    },
+    {
+      "i": "Germany",
+      "wc": "ammo",
+      "e": "Turkey",
+      "v": 1000
+    },
+    {
+      "i": "Switzerland",
+      "wc": "ammo",
+      "e": "Turkey",
+      "v": 11834
+    },
+    {
+      "i": "Saudi Arabia",
+      "wc": "ammo",
+      "e": "United Arab Emirates",
+      "v": 238841
+    },
+    {
+      "i": "United States",
+      "wc": "ammo",
+      "e": "United Arab Emirates",
+      "v": 77759
+    },
+    {
+      "i": "Indonesia",
+      "wc": "ammo",
+      "e": "United Kingdom",
+      "v": 2631
+    },
+    {
+      "i": "Algeria",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 5899
+    },
+    {
+      "i": "Bahrain",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 1366757
+    },
+    {
+      "i": "Barbados",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 82190
+    },
+    {
+      "i": "Belize",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 198412
+    },
+    {
+      "i": "Costa Rica",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 212296
+    },
+    {
+      "i": "Dominica",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 8114
+    },
+    {
+      "i": "Egypt",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 1373394
+    },
+    {
+      "i": "El Salvador",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 1868722
+    },
+    {
+      "i": "Ethiopia",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 2832
+    },
+    {
+      "i": "Gabon",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 48373
+    },
+    {
+      "i": "Grenada",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 10577
+    },
+    {
+      "i": "Honduras",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 3467689
+    },
+    {
+      "i": "Micronesia, Federated States of",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 3524
+    },
+    {
+      "i": "Morocco",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 249266
+    },
+    {
+      "i": "Nicaragua",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 12438
+    },
+    {
+      "i": "Niger",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 357000
+    },
+    {
+      "i": "Nigeria",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 62699
+    },
+    {
+      "i": "Oman",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 28591
+    },
+    {
+      "i": "Papua New Guinea",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 181250
+    },
+    {
+      "i": "Philippines",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 491678
+    },
+    {
+      "i": "Senegal",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 71399
+    },
+    {
+      "i": "Saint Kitts and Nevis",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 41882
+    },
+    {
+      "i": "Saint Vincent and the Grenadines",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 27725
+    },
+    {
+      "i": "Suriname",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 19180
+    },
+    {
+      "i": "United Arab Emirates",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 4948830
+    },
+    {
+      "i": "Zambia",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 7310
+    },
+    {
+      "i": "Zimbabwe",
+      "wc": "ammo",
+      "e": "United States",
+      "v": 14300
+    },
+    {
+      "i": "Brazil",
+      "wc": "ammo",
+      "e": "Unspecified Country",
+      "v": 0
+    },
+    {
+      "i": "Chile",
+      "wc": "ammo",
+      "e": "Unspecified Country",
+      "v": 0
+    },
+    {
+      "i": "Croatia",
+      "wc": "ammo",
+      "e": "Unspecified Country",
+      "v": 184
+    },
+    {
+      "i": "Ecuador",
+      "wc": "ammo",
+      "e": "Unspecified Country",
+      "v": 426
+    },
+    {
+      "i": "Finland",
+      "wc": "ammo",
+      "e": "Unspecified Country",
+      "v": 0
+    },
+    {
+      "i": "Iceland",
+      "wc": "ammo",
+      "e": "Unspecified Country",
+      "v": 0
+    },
+    {
+      "i": "India",
+      "wc": "ammo",
+      "e": "Unspecified Country",
+      "v": 0
+    },
+    {
+      "i": "Spain",
+      "wc": "ammo",
+      "e": "Unspecified Country",
+      "v": 113
+    },
+    {
+      "i": "Thailand",
+      "wc": "ammo",
+      "e": "Unspecified Country",
+      "v": 0
+    },
+    {
+      "i": "United Arab Emirates",
+      "wc": "ammo",
+      "e": "Unspecified Country",
+      "v": 0
+    }
+  ]
+}

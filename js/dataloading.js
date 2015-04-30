@@ -21,7 +21,7 @@ function loadWorldPins( callback ){
 }
 
 function loadContentData(callback){	
-	var filePath = "categories/All.json";
+	var filePath = "categories/less.json";
 	filePath = encodeURI( filePath );
 	// console.log(filePath);
 			
@@ -29,14 +29,10 @@ function loadContentData(callback){
 	xhr.open( 'GET', filePath, true );
 	xhr.onreadystatechange = function() {
 		if ( xhr.readyState === 4 && xhr.status === 200 ) {
-	    	timeBins = JSON.parse( xhr.responseText ).timeBins;
+	    	moves = JSON.parse( xhr.responseText ).moves;
 		
 			maxValue = 0;
-			// console.log(timeBins);
-
-			startTime = timeBins[0].t;
-	    	endTime = timeBins[timeBins.length-1].t;
-	    	timeLength = endTime - startTime;				    											    	
+			// console.log(moves);
 
 			if(callback)
 				callback();				
